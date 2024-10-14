@@ -3,11 +3,9 @@ from openai import OpenAI
 
 
 # Show title and description.
-#st.markdown("""<span style='color: purple;'>This is a red font color</span>""",unsafe_allow_html=True)
 st.logo("png/logo.png", size='large')
-
 st.title('📄 MSL Companion')
-
+st.subheader("A case study on how to use LLMs to empower MSL teams at Bristol Myers Squibb.")
 
 # Create an OpenAI client.
 openai_api_key = st.text_input("OpenAI API Key", type="password")
