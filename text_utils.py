@@ -37,8 +37,6 @@ def get_indication_from_file(file_name):
         print("Indications missing in ",file_name)
     return indication
 
-get_indication_from_file("product_inserts/txt/ppi_orencia.txt")
-
 def get_all_indications():
     txt_directory = "product_inserts/txt/"
     text = ""
