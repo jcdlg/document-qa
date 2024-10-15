@@ -1,0 +1,1684 @@
+HIGHLIGHTS OF PRESCRIBING INFORMATION
+These highlights do not include all the information needed to use ABECMA safely 
+and effectively. See full prescribing information for ABECMA.
+ABECMA® (idecabtagene vicleucel), suspension for intravenous infusion
+Initial U.S. Approval: 2021
+WARNING: CYTOKINE RELEASE SYNDROME, NEUROLOGIC TOXICITIES, HLH/MAS, 
+PROLONGED CYTOPENIA, AND SECONDARY HEMATOLOGICAL MALIGNANCIES
+See full prescribing information for complete boxed warning.
+• Cytokine Release Syndrome (CRS), including fatal or life-threatening  
+reactions, occurred in patients following treatment with ABECMA. Do not 
+administer ABECMA to patients with active infection or inflammatory 
+disorders. Treat severe or life-threatening CRS with tocilizumab or 
+tocilizumab and corticosteroids (2.2, 2.3, 5.2, 6.1).
+• Neurologic toxicities, which may be severe or life-threatening, occurred 
+following treatment with ABECMA, including concurrently with CRS, after 
+CRS resolution, or in the absence of CRS. Monitor for neurologic events after 
+treatment with ABECMA. Provide supportive care and/or corticosteroids as 
+needed (2.2, 2.3, 5.3).
+• Hemophagocytic Lymphohistiocytosis/Macrophage Activation Syndrome 
+(HLH/MAS), including fatal and life-threatening reactions, occurred in 
+patients following treatment with ABECMA. HLH/MAS can occur with CRS 
+or neurologic toxicities (5.4).
+• Prolonged Cytopenia with bleeding and infection, including fatal outcomes 
+following stem cell transplantation for hematopoietic recovery, occurred 
+following treatment with ABECMA (5.8).
+• T cell malignancies have occurred following treatment of hematologic 
+malignancies with BCMA- and CD19-directed genetically modified 
+autologous T cell immunotherapies, including ABECMA (5.10).
+• ABECMA is available only through a restricted program under a Risk 
+Evaluation and Mitigation Strategy (REMS) called the ABECMA REMS (5.5).
+------------------------------ RECENT MAJOR CHANGES ------------------------------
+Boxed Warning 4/2024
+Indications and Usage (1) 4/2024
+Dosage and Administration (2.1, 2.2) 4/2024
+Dosage and Administration (2.2)  7/2024
+Warnings and Precautions (5) 4/2024
+------------------------------- INDICATIONS AND USAGE ------------------------------
+ABECMA is a B-cell maturation antigen (BCMA)-directed genetically modified autologous 
+T cell immunotherapy indicated for the treatment of adult patients with relapsed 
+or refractory multiple myeloma after two or more prior lines of therapy including an 
+immunomodulatory agent, a proteasome inhibitor, and an anti-CD38 monoclonal 
+antibody (1).
+---------------------------  DOSAGE AND ADMINISTRATION  ---------------------------
+For autologous use only. For intravenous use only.
+• Do NOT use a leukodepleting filter (2.2).• Administer a lymphodepleting chemotherapy regimen of cyclophosphamide and 
+fludarabine before infusion of ABECMA (idecabtagene vicleucel) (2.2).
+• Confirm the patient’s identity prior to infusion (2.2).
+• Premedicate with acetaminophen and an H 1-antihistamine (2.2).
+• Avoid prophylactic use of dexamethasone or other systemic corticosteroids (2.2).
+• Confirm availability of tocilizumab prior to infusion (2.2, 5.2).
+• Dosing of ABECMA is based on the number of chimeric antigen receptor (CAR)-positive  
+T cells (2.1).
+• The recommended dose range is 300 to 510 × 106 CAR-positive T cells (2.1).
+• Administer ABECMA at a certified healthcare facility (2.2, 5.2, 5.3, 5.4).
+-------------------------- DOSAGE FORMS AND STRENGTHS --------------------------
+• ABECMA is a cell suspension for intravenous infusion (3).
+• A single dose of ABECMA contains a cell suspension of 300 to 510 x 106 CAR-positive 
+T cells in one or more infusion bags (3).
+--------------------------------- CONTRAINDICATIONS ---------------------------------
+None (4).
+---------------------------- WARNINGS AND PRECAUTIONS ---------------------------
+• Hypersensitivity Reactions:  Monitor for hypersensitivity reactions during infusion (5.6).
+• Infections:  Monitor patients for signs and symptoms of infection; treat appropriately 
+(5.7).
+• Prolonged Cytopenias:  Patients may exhibit prolonged Grade 3 or higher cytopenias 
+following ABECMA infusion. Monitor blood counts prior to and after ABECMA infusion 
+(5.8).
+• Hypogammaglobulinemia:  Monitor and consider immunoglobulin replacement therapy 
+(5.9).
+• Secondary Malignancies:  T cell malignancies have occurred following treatment 
+of hematologic malignancies with BCMA- and CD19-directed genetically modified 
+autologous T cell immunotherapies, including ABECMA. In the event that a secondary 
+malignancy occurs after treatment with ABECMA, contact Bristol-Myers Squibb at 
+1-888-805-4555 (5.10).
+• Effects on Ability to Drive and Use Machines:  Advise patients to refrain from driving 
+or operating heavy or potentially dangerous machines for at least eight weeks after 
+ABECMA administration (5.11).
+--------------------------------- ADVERSE REACTIONS --------------------------------
+The most common nonlaboratory adverse reactions (incidence greater than or equal to 
+20%) include pyrexia, CRS, hypogammaglobulinemia, infections – pathogen unspecified, 
+musculoskeletal pain, fatigue, febrile neutropenia, hypotension, tachycardia, diarrhea, 
+nausea, headache, chills, upper respiratory tract infection, encephalopathy, edema, 
+dyspnea and viral infections (6.1).
+The most common Grade 3 or 4 laboratory adverse reactions (incidence greater than 
+or equal to 50%) include leukocyte count decreased, neutrophil count decreased, 
+lymphocyte count decreased, platelet count decreased, and hemoglobin decreased (6.1).
+To report SUSPECTED ADVERSE REACTIONS, contact Bristol-Myers Squibb at 
+1-800-721-5072 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+See 17 for PATIENT COUNSELING INFORMATION and Medication Guide
+Revised: 7/2024
+FULL PRESCRIBING INFORMATION: CONTENTS *
+WARNING: CYTOKINE RELEASE SYNDROME, NEUROLOGIC TOXICITIES, HLH/MAS, 
+PROLONGED CYTOPENIA, AND SECONDARY HEMATOLOGICAL MALIGNANCIES
+1 INDICATIONS AND USAGE
+2 DOSAGE AND ADMINISTRATION
+2.1 Dose
+2.2 Administration
+2.3 Management of Severe Adverse Reactions
+3 DOSAGE FORMS AND STRENGTHS
+4 CONTRAINDICATIONS
+5 WARNINGS AND PRECAUTIONS
+5.1 Early Death
+5.2 Cytokine Release Syndrome (CRS)
+5.3 Neurologic Toxicities
+5.4 Hemophagocytic Lymphohistiocytosis (HLH)/Macrophage Activation 
+Syndrome (MAS)
+5.5 ABECMA REMS
+5.6 Hypersensitivity Reactions
+5.7 Infections
+5.8 Prolonged Cytopenias
+5.9 Hypogammaglobulinemia5.10 Secondary Malignancies
+5.11 Effects on Ability to Drive and Use Machines
+6 ADVERSE REACTIONS
+6.1 Clinical Trials Experience
+6.2 Immunogenicity
+6.3 Postmarketing Experience
+7 DRUG INTERACTIONS
+8 USE IN SPECIFIC POPULATIONS
+8.1 Pregnancy
+8.2 Lactation
+8.3 Females and Males of Reproductive Potential
+8.4 Pediatric Use
+8.5 Geriatric Use
+11 DESCRIPTION
+12 CLINICAL PHARMACOLOGY
+12.1 Mechanism of Action
+12.2 Pharmacodynamics
+12.3 Pharmacokinetics
+(Continued)FULL PRESCRIBING INFORMATION
+WARNING: CYTOKINE RELEASE SYNDROME, NEUROLOGIC TOXICITIES, HLH/MAS, 
+PROLONGED CYTOPENIA, AND SECONDARY HEMATOLOGICAL MALIGNANCIES
+• Cytokine Release Syndrome (CRS), including fatal or life-threatening reactions,  
+occurred in patients following treatment with ABECMA (idecabtagene 
+vicleucel). Do not administer ABECMA to patients with active infection 
+or inflammatory disorders. Treat severe or life-threatening CRS with 
+tocilizumab or tocilizumab and corticosteroids [see Dosage and 
+Administration (2.2, 2.3), Warnings and Precautions (5.2), and Adverse 
+Reactions (6.1)].
+• Neurologic toxicities, which may be severe or life-threatening, occurred 
+following treatment with ABECMA, including concurrently with CRS, 
+after CRS resolution, or in the absence of CRS. Monitor for neurologic 
+events after treatment with ABECMA. Provide supportive care and/or 
+corticosteroids as needed [see Dosage and Administration (2.2, 2.3) and 
+Warnings and Precautions (5.3)].
+• Hemophagocytic Lymphohistiocytosis/Macrophage Activation Syndrome 
+(HLH/MAS) including fatal and life-threatening reactions, occurred in 
+patients following treatment with ABECMA. HLH/MAS can occur with CRS 
+or neurologic toxicities [see Warnings and Precautions (5.4)].
+• Prolonged Cytopenia with bleeding and infection, including fatal outcomes 
+following stem cell transplantation for hematopoietic recovery, occurred 
+following treatment with ABECMA [see Warnings and Precautions (5.8)].
+• T cell malignancies have occurred following treatment of hematologic 
+malignancies with BCMA- and CD19-directed genetically modified 
+autologous T cell immunotherapies, including ABECMA [see Warnings and 
+Precautions (5.10)].
+• ABECMA is available only through a restricted program under a Risk 
+Evaluation and Mitigation Strategy (REMS) called the ABECMA REMS  
+[see Warnings and Precautions (5.5)].
+1 INDICATIONS AND USAGE
+ABECMA is a B-cell maturation antigen (BCMA)-directed genetically modified 
+autologous T cell immunotherapy indicated for the treatment of adult patients with 
+relapsed or refractory multiple myeloma after two or more prior lines of therapy 
+including an immunomodulatory agent, a proteasome inhibitor, and an anti-CD38 
+monoclonal antibody.
+2 DOSAGE AND ADMINISTRATION
+For autologous use only. For intravenous use only.
+2.1 Dose
+ABECMA is provided as a single dose for infusion containing a suspension of chimeric 
+antigen receptor (CAR)-positive T cells in one or more infusion bags. The recommended 
+dose range is 300 to 510 x 106 CAR-positive T cells.
+See the accompanying Release for Infusion Certificate (RFI Certificate) for additional 
+information pertaining to dose [see How Supplied/Storage and Handling (16)].
+2.2 Administration
+ABECMA is for autologous use only. The patient’s identity must match the patient 
+identifiers on the ABECMA cassette(s) and infusion bag(s). Do not infuse ABECMA if the 
+information on the patient-specific label(s) does not match the intended patient.
+Preparing Patient for ABECMA Infusion
+Confirm the availability of ABECMA prior to starting the lymphodepleting chemotherapy  
+regimen.
+Pretreatment
+Administer the lymphodepleting chemotherapy regimen: cyclophosphamide 300 mg/m2 
+intravenously (IV) and fludarabine 30 mg/m2 IV for three days.
+See the prescribing information of cyclophosphamide and fludarabine for information on 
+dose adjustment in renal impairment.
+Administer ABECMA two days after completion of lymphodepleting chemotherapy.Delay the infusion of ABECMA (idecabtagene vicleucel) up to seven days if a patient has 
+any of the following conditions:
+• unresolved serious adverse events (especially pulmonary events, cardiac events, 
+or hypotension), including those after preceding chemotherapies.
+• active infections or inflammatory disorders [see Warnings and Precautions (5.7)].
+Premedication
+Administer acetaminophen (650 mg orally) and diphenhydramine (12.5 mg IV or 
+25 to 50 mg orally, or another H 1-antihistamine) approximately 30 to 60 minutes before 
+infusion of ABECMA.
+Avoid prophylactic use of dexamethasone or other systemic corticosteroids, as the use 
+may interfere with the activity of ABECMA.
+Receipt of ABECMA
+• ABECMA is shipped directly to the cell laboratory or clinical pharmacy associated 
+with the infusion center in the vapor phase of a liquid nitrogen shipper.
+• Confirm the patient’s identity with the patient identifiers on the shipper.
+• If the patient is not expected to be ready for same-day administration before 
+the shipper expires and the infusion site is qualified for onsite storage, transfer 
+ABECMA to onsite vapor phase of liquid nitrogen storage.
+• If the patient is not expected to be ready for same-day administration before the 
+shipper expires and the infusion site is not qualified for onsite storage, contact 
+Bristol-Myers Squibb at 1-888-805-4555 to arrange for return shipment.
+Preparation of ABECMA for Infusion
+1. Coordinate the timing of ABECMA thaw and infusion. Confirm the infusion time 
+in advance and adjust the start time of the thaw of ABECMA so that it will be 
+available for infusion when the patient is ready.
+2. Prior to thawing the product, confirm that tocilizumab and emergency equipment 
+are available prior to the infusion and during the recovery period.
+3. An ABECMA dose may be contained in one or more patient-specific infusion 
+bag(s). Verify the number of bags received for the indicated dose of ABECMA 
+prior to preparation of ABECMA for infusion.
+4. Confirm patient identity: Prior to preparation of ABECMA, match the patient’s 
+identity with the patient identifiers on the ABECMA cassette(s), infusion bag(s), 
+and the RFI Certificate.
+Note: The patient identifier number may be preceded by the letters DIN or Aph ID.
+5. Do not remove the ABECMA infusion bag(s) from the cassette(s) if the information 
+on the patient-specific cassette label(s) does not match the intended patient. 
+Contact Bristol-Myers Squibb at 1-888-805-4555 if there are any discrepancies 
+between the labels and the patient identifiers.
+6. Once patient identity is confirmed, remove the ABECMA infusion bag(s) from 
+the cassette(s) and check that the patient information on the cassette label(s) 
+matches the patient information on the bag label(s).
+Figure 1: ABECMA Bag Label(s)
+Patient Name
+Patient Date of Birth
+Patient DIN OR Aph ID
+JOINFirst: FIRST NAME
+Last: LAST NAME
+Date of birth:  DD-MMM-YYYY
+DIN/Aph ID:  W0000 00 000000
+JOIN:  XXXX-XXXXX   
+LOT: XXXX-XXXXXY
+EXP: DD-MMM-YYYYBag ID : XX
+XXXX-XXXXXY -XX
+7. Inspect the infusion bag(s) for any breaches of container integrity such as breaks 
+or cracks before thawing. If the bag(s) is compromised, do not administer and 
+contact Bristol-Myers Squibb at 1-888-805-4555.
+8. If more than one infusion bag has been received to achieve the treatment dose, 
+thaw each infusion bag one at a time. Do not initiate thaw of the next bag until 
+infusion of the previous bag is complete.FULL PRESCRIBING INFORMATION: CONTENTS * (Continued)
+13 NONCLINICAL TOXICOLOGY
+13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+14 CLINICAL STUDIES
+15 REFERENCES16 HOW SUPPLIED/STORAGE AND HANDLING
+17 PATIENT COUNSELING INFORMATION
+* Sections or subsections omitted from the full prescribing information are not listed.ABECMA® (idecabtagene vicleucel) ABECMA® (idecabtagene vicleucel)9. Place the infusion bag(s) inside a second sterile bag per local guidelines.
+10. Thaw ABECMA infusion bag(s) at approximately 37°C using an approved thaw 
+device or water bath until there is no visible ice in the infusion bag. Gently mix 
+the contents of the bag to disperse visible clumps of cellular material. Small 
+clumps of cellular material may persist despite gentle manual mixing. Do not 
+wash, spin down, and/or resuspend ABECMA in new media prior to infusion.
+11. ABECMA should be administered within one hour of the initiation of the thaw 
+process. ABECMA is stable for two hours at room temperature once thawed.
+ABECMA Administration
+• For autologous use only.
+• Do NOT use a leukodepleting filter.
+• Ensure that a minimum of two doses of tocilizumab and emergency equipment 
+are available prior to infusion and during the recovery period.
+• Central venous access may be utilized for the infusion of ABECMA and is 
+encouraged in patients with poor peripheral access.
+1. Confirm that the patient’s identity matches the patient identifiers on the 
+ABECMA infusion bag(s).
+2. Prime the tubing of the infusion set with normal saline prior to infusion. 
+An infusion set with an in-line filter (non-leukodepleting filter with a pore 
+size range of 170 to 260 µm) can be used for thawed products with visible 
+clumps of cellular material that do not disperse after gentle manual mixing.
+3. Infuse the entire contents of the ABECMA infusion bag within one hour after 
+start of thaw by gravity flow.
+4. After the entire content of the infusion bag is infused, rinse the tubing, 
+inclusive of the in-line filter if used, with 30 to 60 mL of normal saline at 
+the same infusion rate to ensure as many cells as possible are infused into 
+the patient.
+5. If more than one infusion bag is received, administer all bags as directed, 
+following steps 1-4 for each bag. Do not initiate thaw of the next bag until 
+infusion of the previous bag is complete.
+ABECMA contains human blood cells that are genetically modified with replication-
+incompetent, self-inactivating lentiviral vector. Follow universal precautions and local 
+biosafety guidelines for handling and disposal of ABECMA to avoid potential transmission 
+of infectious diseases.
+Monitoring
+• Administer ABECMA at a REMS-certified healthcare facility.
+• Monitor patients at least daily for seven days following ABECMA infusion at 
+the certified healthcare facility for signs and symptoms of CRS and neurologic 
+toxicities [see Warnings and Precautions (5.2, 5.3)].
+• Instruct patients to remain within proximity of the certified healthcare facility for 
+at least four weeks following infusion.
+• Instruct patients to refrain from driving or hazardous activities for at least eight 
+weeks following infusion.
+2.3 Management of Severe Adverse Reactions
+Cytokine Release Syndrome (CRS)
+Identify CRS based on clinical presentation [see Warnings and Precautions (5.2)]. 
+Evaluate for and treat other causes of fever, hypoxia, and hypotension.
+If CRS is suspected, manage according to the recommendations in Table 1.
+Patients who experience CRS should be closely monitored for cardiac and organ function 
+until resolution of symptoms. Consider antiseizure prophylaxis with levetiracetam in 
+patients who experience CRS.
+Patients who experience Grade 2 or higher CRS (e.g., hypotension not responsive to 
+fluids, or hypoxia requiring supplemental oxygenation) should be monitored with 
+continuous cardiac telemetry and pulse oximetry.
+For severe or life-threatening CRS, consider intensive care unit level monitoring and 
+supportive therapy.
+For CRS refractory to first line interventions such as tocilizumab or tocilizumab and 
+corticosteroids, consider alternate treatment options (i.e., higher corticosteroid dose, 
+alternative anti-cytokine agents, anti-T cell therapies). Refractory CRS is characterized 
+by fevers, end-organ toxicity (e.g., hypoxia, hypotension) not improving within 12 hours 
+of first line interventions or development of hemophagocytic lymphohistiocytosis/
+macrophage activation syndrome (HLH/MAS).
+If concurrent neurologic toxicity is suspected during CRS, administer:
+• Corticosteroids according to the more aggressive intervention based on the CRS 
+and neurologic toxicity grades in Tables 1 and 2
+• Tocilizumab according to the CRS grade in Table 1
+• Antiseizure medication according to the neurologic toxicity in Table 2Table 1: CRS Grading and Management Guidance
+CRS Grade a  Tocilizumab c  Corticosteroids b 
+Grade 1
+Symptoms require 
+symptomatic treatment 
+only (e.g., fever, nausea, 
+fatigue, headache, 
+myalgia, malaise).If onset 72 hours or more after 
+infusion, treat symptomatically.
+If onset less than 72 hours after 
+infusion, consider tocilizumab 
+8 mg/kg IV over 1 hour (not to 
+exceed 800 mg).Consider dexamethasone 
+10 mg IV every 24 hours.
+Grade 2
+Symptoms require and 
+respond to moderate 
+intervention.
+Oxygen requirement 
+less than 40% FiO 2 or 
+hypotension responsive 
+to fluids, or low dose 
+of one vasopressor, or 
+Grade 2 organ toxicity.Administer tocilizumab  
+8 mg/kg IV over 1 hour (not to 
+exceed 800 mg).
+Repeat tocilizumab every 
+8 hours as needed if not 
+responsive to intravenous fluids 
+or increasing supplemental 
+oxygen.
+Limit to a maximum of 3 doses 
+in a 24-hour period; maximum 
+total of 4 doses.Consider dexamethasone 
+10 mg IV every 
+12-24 hours. 
+If no improvement within 24 hours or rapid progression, 
+repeat tocilizumab and escalate dose and frequency of 
+dexamethasone (20 mg IV every 6 to 12 hours).
+If no improvement within 24 hours or continued rapid 
+progression, switch to methylprednisolone 2 mg/kg followed by 
+2 mg/kg divided 4 times per day.
+After 2 doses of tocilizumab, consider alternative anti-cytokine 
+agents.
+Do not exceed 3 doses of tocilizumab in 24 hours, or 4 doses 
+in total.
+Grade 3
+Symptoms require and 
+respond to aggressive 
+intervention.
+Fever, oxygen 
+requirement greater 
+than or equal to 40% 
+FiO2, or hypotension 
+requiring high-dose or 
+multiple vasopressors, 
+or Grade 3 organ 
+toxicity or Grade 4 
+transaminitis.Per Grade 2 Administer dexamethasone 
+10 mg IV every 12 hours.
+If no improvement within 24 hours or rapid progression, 
+repeat tocilizumab and escalate dose and frequency of 
+dexamethasone (20 mg IV every 6 to 12 hours).
+If no improvement within 24 hours or continued rapid 
+progression, switch to methylprednisolone 2 mg/kg followed by 
+2 mg/kg divided 4 times per day.
+After 2 doses of tocilizumab, consider alternative anti-cytokine 
+agents.
+Do not exceed 3 doses of tocilizumab in 24 hours, or 4 doses 
+in total.
+Grade 4
+Life-threatening 
+symptoms.
+Requirements 
+for ventilator 
+support, continuous 
+veno-venous 
+hemodialysis (CVVHD), 
+or Grade 4 organ 
+toxicity (excluding 
+transaminitis).Per Grade 2Administer dexamethasone 
+20 mg IV every 6 hours.
+After 2 doses of tocilizumab, consider alternative anti-cytokine 
+agents. Do not exceed 3 doses of tocilizumab in 24 hours, or 
+4 doses in total.
+If no improvement within 24 hours, consider 
+methylprednisolone (1-2 g, repeat every 24 hours if needed; 
+taper as clinically indicated) or other anti-T cell therapies.
+a Lee criteria for grading CRS (Lee et al., 2014).
+b If corticosteroids are initiated, continue corticosteroids for at least 3 doses, and taper over 
+a maximum of seven days.
+c Refer to tocilizumab Prescribing Information for details.
+Neurologic Toxicity
+Monitor patients for signs and symptoms of neurologic toxicities (Table 2). Rule out other 
+causes of neurologic signs or symptoms. Provide intensive care supportive therapy for 
+severe or life-threatening neurologic toxicities. If neurologic toxicity is suspected, manage 
+according to the recommendations in Table 2.
+If concurrent CRS is suspected during the neurologic toxicity event, administer:
+• Corticosteroids according to the more aggressive intervention based on the CRS 
+and neurologic toxicity grades in Tables 1 and 2
+• Tocilizumab according to CRS grade in Table 1
+• Antiseizure medication according to neurologic toxicity in Table 2ABECMA® (idecabtagene vicleucel) ABECMA® (idecabtagene vicleucel)Table 2: Neurologic Toxicity Grading and Management Guidance
+Neurologic 
+Toxicity Grade a Corticosteroids and Antiseizure Medications
+Grade 1Start non-sedating, antiseizure medicines (e.g., levetiracetam) for 
+seizure prophylaxis.
+If 72 hours or more after infusion, observe patient.
+If less than 72 hours after infusion, consider dexamethasone 10 mg IV 
+every 12 to 24 hours for 2 to 3 days.
+Grade 2Start non-sedating, antiseizure medicines (e.g., levetiracetam) for 
+seizure prophylaxis.
+Start dexamethasone 10 mg IV every 12 hours for 2-3 days, or longer 
+for persistent symptoms.
+Consider taper for a total corticosteroid exposure of greater than 
+3 days. Corticosteroids are not recommended for isolated Grade 2 
+headaches.
+If no improvement after 24 hours or worsening of neurologic toxicity, 
+increase the dose and/or frequency of dexamethasone up to a 
+maximum of 20 mg IV every 6 hours.
+Grade 3Start non-sedating, antiseizure medicines (e.g., levetiracetam) for 
+seizure prophylaxis.
+Start dexamethasone 10 to 20 mg IV every 6 to 12 hours. 
+Corticosteroids are not recommended for isolated Grade 3 headaches.
+If no improvement after 24 hours or worsening of neurologic toxicity, 
+escalate to methylprednisolone (2 mg/kg loading dose, followed by 
+2 mg/kg divided into 4 times a day; taper within 7 days).
+If cerebral edema is suspected, consider hyperventilation and 
+hyperosmolar therapy. Give high-dose methylprednisolone (1-2 g, 
+repeat every 24 hours if needed; taper as clinically indicated) and 
+cyclophosphamide 1.5 g/m2.
+Grade 4Start non-sedating, antiseizure medicines (e.g., levetiracetam) for 
+seizure prophylaxis.
+Start dexamethasone 20 mg IV every 6 hours.
+If no improvement after 24 hours or worsening of neurologic toxicity, 
+escalate to high-dose methylprednisolone (1-2 g, repeat every 
+24 hours if needed; taper as clinically indicated).
+If cerebral edema is suspected, consider hyperventilation and 
+hyperosmolar therapy. Give high-dose methylprednisolone (1-2 g, 
+repeat every 24 hours if needed; taper as clinically indicated), and 
+cyclophosphamide 1.5 g/m2.
+a NCI CTCAE criteria for grading neurologic toxicities version 4.03.
+3 DOSAGE FORMS AND STRENGTHS
+ABECMA is a cell suspension for intravenous infusion.
+A single dose of ABECMA contains a cell suspension of 300 to 510 x 106 chimeric 
+antigen receptor (CAR)-positive T cells in one or more infusion bags [see How Supplied/
+Storage and Handling (16)].
+4 CONTRAINDICATIONS
+None.
+5 WARNINGS AND PRECAUTIONS
+5.1 Early Death
+In KarMMa-3, a randomized (2:1), controlled trial, a higher proportion of patients 
+experienced death within nine months after randomization in the ABECMA arm (45/254; 
+18%) compared to the standard regimens arm (15/132; 11%) [see Clinical Studies (14) ]. 
+Early deaths occurred in 8% (20/254) and 0% prior to ABECMA infusion and standard 
+regimen administration, respectively, and 10% (25/254) and 11% (15/132) after ABECMA 
+infusion and standard regimen administration, respectively. Out of the 20 deaths that 
+occurred prior to ABECMA infusion, 15 occurred from disease progression, 3 occurred 
+from adverse events and 2 occurred from unknown causes. Out of the 25 deaths that 
+occurred after ABECMA infusion, 10 occurred from disease progression, 11 occurred 
+from adverse events, and 4 occurred from unknown causes.
+5.2 Cytokine Release Syndrome (CRS)
+CRS, including fatal or life-threatening reactions, occurred following treatment with 
+ABECMA. Among patients receiving ABECMA for relapsed or refractory multiple myeloma 
+in the KarMMa and KarMMa-3 studies (N=349), CRS occurred in 89% (310/349), 
+including ≥Grade 3 CRS (Lee grading system) in 7% (23/349) of patients and Grade 5 
+CRS in 0.9% (3/349) of patients. The median time-to-onset of CRS, any grade, was 
+1 day (range: 1 to 27 days), and the median duration of CRS was 5 days (range: 1 to 
+63 days). In the pooled studies, the rate of ≥Grade 3 CRS was 10% (7/71) for patients treated in dose range of 460 to 510 x 106 CAR-positive T cells and 5.4% (13/241) 
+for patients treated in dose range of 300 to 460 x 106 CAR-positive T cells.
+The most common manifestations of CRS (greater than or equal to 10%) included 
+pyrexia (87%), hypotension (30%), tachycardia (26%), chills (19%), and hypoxia (16%). 
+Grade 3 or higher events that may be associated with CRS include hypotension, hypoxia, 
+hyperbilirubinemia, hypofibrinogenemia, ARDS, atrial fibrillation, hepatocellular injury, 
+metabolic acidosis, pulmonary edema, coagulopathy, renal failure, multiple organ 
+dysfunction syndrome and hemophagocytic lymphohistiocytosis/macrophage activation 
+syndrome (HLH/MAS) [see Adverse Reactions (6.1)].
+Identify CRS based on clinical presentation. Evaluate for and treat other causes of fever, 
+hypoxia, and hypotension. CRS has been reported to be associated with findings of 
+HLH/MAS, and the physiology of the syndromes may overlap. HLH/MAS is a potentially 
+life-threatening condition. In patients with progressive symptoms of CRS or refractory 
+CRS despite treatment, evaluate for evidence of HLH/MAS. Please see Section 5.4; 
+Hemophagocytic Lymphohistiocytosis/Macrophage Activation Syndrome.
+Of the 349 patients who received ABECMA in clinical trials, 226 (65%) patients received 
+tocilizumab; 39% (135/349) received a single dose, while 26% (91/349) received more 
+than 1 dose of tocilizumab. Overall, 24% (82/349) of patients received at least 1 dose of  
+corticosteroids for treatment of CRS. Almost all patients who received corticosteroids for 
+CRS also received tocilizumab. For patients treated in dose range of 460 to 510 x 106  
+CAR-positive T cells, 76% (54/71) of patients received tocilizumab and 35% (25/71) 
+received at least 1 dose of corticosteroids for treatment of CRS. For patients treated 
+in dose range of 300 to 460 x 106 CAR-positive T cells, 63% (152/241) of patients 
+received tocilizumab and 20% (49/241) received at least 1 dose of corticosteroid for 
+treatment of CRS.
+Ensure that a minimum of two doses of tocilizumab are available prior to infusion 
+of ABECMA.
+Monitor patients at least daily for seven days following ABECMA infusion at the REMS-
+certified healthcare facility for signs and symptoms of CRS. Monitor patients for signs 
+or symptoms of CRS for at least four weeks after infusion. At the first sign of CRS, 
+institute treatment with supportive care, tocilizumab and/or corticosteroids as indicated 
+[see Dosage and Administration (2.3)].
+Counsel patients to seek immediate medical attention should signs or symptoms of CRS 
+occur at any time [see Patient Counseling Information (17)].
+5.3 Neurologic Toxicities
+Neurologic toxicities, including immune-effector cell-associated neurotoxicity (ICANS), 
+which may be severe or life-threatening, occurred concurrently with CRS, after CRS 
+resolution, or in the absence of CRS following treatment with ABECMA.
+In patients receiving ABECMA in the KarMMa and KarMMa-3 studies, CAR T cell-
+associated neurotoxicity occurred in 40% (139/349), including Grade 3 in 4% (14/349) 
+and Grade 4 in 0.6% (2/349) of patients. The median time to onset of neurotoxicity was 
+2 days (range: 1 to 148 days). The median duration of CAR T cell-associated neurotoxicity 
+was 8 days (range: 1 to 720 days) in all patients including those with ongoing neurologic 
+events at the time of death or data cut off. CAR T cell-associated neurotoxicity resolved 
+in 123 of 139 (88%) patients and median time to resolution was 5 days (range: 1 to 
+245 days). One-hundred and thirty four out of 349 (38%) patients with neurotoxicity 
+had CRS. The onset of neurotoxicity during CRS was observed in 93 patients, before 
+the onset of CRS in 12 patients, and after the CRS event in 29 patients. The rate of 
+Grade 3 or 4 CAR T cell-associated neurotoxicity was 5.6% (4/71) and 3.7% (9/241) 
+for patients treated in dose range of 460 to 510 x 106 CAR-positive T cells and 300 to 
+460 x 106 CAR-positive T cells, respectively. The most frequent (greater than or equal to 
+5%) manifestations of CAR T cell-associated neurotoxicity include encephalopathy (21%), 
+headache (15%), dizziness (8%), delirium (6%), and tremor (6%).
+At the safety update for KarMMa-3 study, one patient developed fatal neurotoxicity 
+43 days after ABECMA. In KarMMa, one patient had ongoing Grade 2 neurotoxicity at 
+the time of death. Two patients had ongoing Grade 1 tremor at the time of data cutoff.
+Cerebral edema has been associated with ABECMA in a patient in another study in 
+multiple myeloma. Grade 3 myelitis and Grade 3 parkinsonism have occurred after 
+treatment with ABECMA in another study in multiple myeloma.
+Monitor patients at least daily for seven days following ABECMA infusion at the REMS-
+certified healthcare facility for signs and symptoms of neurologic toxicities. Rule out other 
+causes of neurologic symptoms. Monitor patients for signs or symptoms of neurologic 
+toxicities for at least four weeks after infusion and treat promptly. Neurologic toxicity 
+should be managed with supportive care and/or corticosteroids as needed [see Dosage 
+and Administration (2.3)].
+Counsel patients to seek immediate medical attention should signs or symptoms of 
+neurologic toxicity occur at any time [see Patient Counseling Information (17)].
+5.4 Hemophagocytic Lymphohistiocytosis (HLH)/Macrophage Activation 
+Syndrome (MAS)
+In patients receiving ABECMA in the KarMMa and KarMMa-3 studies, HLH/MAS occurred 
+in 2.9% (10/349) of patients. All events of HLH/MAS had onset within 10 days of 
+receiving ABECMA, with a median onset of 6.5 days (range: 4 to 10 days) and occurred 
+in the setting of ongoing or worsening CRS. Five patients with HLH/MAS had overlapping ABECMA® (idecabtagene vicleucel) ABECMA® (idecabtagene vicleucel)neurotoxicity. The manifestations of HLH/MAS include hypotension, hypoxia, multiple 
+organ dysfunction, renal dysfunction, and cytopenia.
+In KarMMa-3, one patient had Grade 5, two patients had Grade 4 and two patients had 
+Grade 3 HLH/MAS. The patient with Grade 5 HLH/MAS also had Grade 5 candida sepsis 
+and Grade 5 CRS. In another patient who died due to stroke, the Grade 4 HLH/MAS  
+had resolved prior to death. Two cases of Grade 3 and one case of Grade 4 HLH/MAS 
+had resolved.
+In KarMMa, one patient treated in the 300 x 106 CAR-positive T cells dose cohort 
+developed fatal multi-organ HLH/MAS with CRS. In another patient with fatal 
+bronchopulmonary aspergillosis, HLH/MAS was contributory to the fatal outcome. Three 
+cases of Grade 2 HLH/MAS resolved.
+HLH/MAS is a potentially life-threatening condition with a high mortality rate if not 
+recognized early and treated. Treatment of HLH/MAS should be administered per 
+institutional standards.
+5.5 ABECMA REMS
+Because of the risk of CRS and neurologic toxicities, ABECMA is available only through 
+a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the 
+ABECMA REMS [see Boxed Warning and Warnings and Precautions (5.2, 5.3)].
+The required components of the ABECMA REMS are:
+• Healthcare facilities that dispense and administer ABECMA must be enrolled and 
+comply with the REMS requirements.
+• Certified healthcare facilities must have on-site, immediate access to tocilizumab.
+• Ensure that a minimum of two doses of tocilizumab are available for each patient for  
+infusion within two hours after ABECMA infusion, if needed for treatment of CRS.
+• Further information is available at www.AbecmaREMS.com or contact 
+Bristol-Myers Squibb at 1-866-340-7332.
+5.6 Hypersensitivity Reactions
+Allergic reactions may occur with the infusion of ABECMA. Serious hypersensitivity 
+reactions, including anaphylaxis, may be due to dimethyl sulfoxide (DMSO) in ABECMA.
+5.7 Infections
+ABECMA should not be administered to patients with active infections or inflammatory 
+disorders. Severe, life-threatening, or fatal infections occurred in patients after 
+ABECMA infusion.
+In all patients receiving ABECMA in the KarMMa and KarMMa-3, infections (all grades) 
+occurred in 61% of patients. Grade 3 or 4 infections occurred in 21% of patients. 
+Grade 3 or 4 infections with an unspecified pathogen occurred in 12%, viral infections 
+in 7%, bacterial infections in 4.3%, and fungal infections in 1.4% of patients. Overall, 
+15 patients had Grade 5 infections (4.3%); 8 patients (2.3%) with infections of pathogen 
+unspecified, 3 patients (0.9%) with fungal infections, 3 patients (0.9%) with viral 
+infections, and 1 patient (0.3%) with bacterial infection.
+Monitor patients for signs and symptoms of infection before and after ABECMA infusion 
+and treat appropriately. Administer prophylactic, pre-emptive, and/or therapeutic 
+antimicrobials according to standard institutional guidelines.
+Febrile neutropenia was observed in 38% (133/349) of patients after ABECMA infusion 
+and may be concurrent with CRS. In the event of febrile neutropenia, evaluate for 
+infection and manage with broad-spectrum antibiotics, fluids, and other supportive care 
+as medically indicated.
+Viral Reactivation
+Cytomegalovirus (CMV) infection resulting in pneumonia and death has occurred 
+following ABECMA administration. Monitor and treat for CMV reactivation in accordance 
+with clinical guidelines.
+Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepatitis, 
+hepatic failure, and death, can occur in patients treated with drugs directed against 
+plasma cells.
+Perform screening for CMV, HBV, hepatitis C virus (HCV), and human immunodeficiency 
+virus (HIV) in accordance with clinical guidelines before collection of cells for 
+manufacturing.
+Consider antiviral therapy to prevent viral reactivation per local institutional guidelines/
+clinical practice.
+5.8 Prolonged Cytopenias
+Patients may exhibit prolonged cytopenias following lymphodepleting chemotherapy and 
+ABECMA infusion.
+In patients receiving ABECMA in the KarMMa and KarMMa-3 studies, 40% of patients 
+(139/349) experienced prolonged Grade 3 or 4 neutropenia and 42% (145/349) 
+experienced prolonged Grade 3 or 4 thrombocytopenia that had not resolved by Month 
+1 following ABECMA infusion. In 89% (123/139) of patients who recovered from Grade 3 
+or 4 neutropenia after Month 1, the median time to recovery from ABECMA infusion was 1.9 months. In 76% (110/145) of patients who recovered from Grade 3 or 4 
+thrombocytopenia, the median time to recovery was 1.9 months. Five patients underwent 
+stem cell therapy for hematopoietic reconstitution due to prolonged cytopenia. The rate 
+of Grade 3 or 4 thrombocytopenia was 62% (44/71) and 56% (135/241) for patients 
+treated in dose range of 460 to 510 x 106 CAR-positive T cells and 300 to 460 x 106 
+CAR-positive T cells, respectively. 
+Monitor blood counts prior to and after ABECMA infusion. Manage cytopenia with myeloid 
+growth factor and blood product transfusion support according to local institutional 
+guidelines.
+5.9 Hypogammaglobulinemia
+Plasma cell aplasia and hypogammaglobulinemia can occur in patients receiving 
+treatment with ABECMA.
+In all patients receiving ABECMA in the KarMMa and KarMMa-3 studies, 
+hypogammaglobulinemia was reported as an adverse event in 13% (46/349) of patients; 
+laboratory IgG levels fell below 500 mg/dL after infusion in 37% (130/349) of patients 
+treated with ABECMA.
+Hypogammaglobulinemia either as an adverse reaction or laboratory IgG level below 
+500 mg/dL after infusion occurred in 45% (158/349) of patients treated with ABECMA. 
+Forty-one percent of patients received intravenous immunoglobulin (IVIG) post-ABECMA 
+for serum IgG <400 mg/dL.
+Monitor immunoglobulin levels after treatment with ABECMA and administer IVIG for IgG 
+<400 mg/dL. Manage per local institutional guidelines, including infection precautions 
+and antibiotic or antiviral prophylaxis.
+Use of Live Vaccines
+The safety of immunization with live viral vaccines during or following ABECMA treatment 
+has not been studied. Vaccination with live virus vaccines is not recommended for at 
+least six weeks prior to the start of lymphodepleting chemotherapy, during ABECMA 
+treatment, and until immune recovery following treatment with ABECMA.
+5.10 Secondary Malignancies
+Patients treated with ABECMA may develop secondary malignancies. In KarMMa-3, 
+myeloid neoplasms (four cases of myelodysplastic syndrome and one case of acute 
+myeloid leukemia) occurred in 2.2% (5/222) of patients following treatment with 
+ABECMA compared to none in the standard regimens arm at the time of the safety 
+update. The median time to onset of myeloid neoplasm from ABECMA infusion was 
+338 days (Range: 277 to 794 days). Three of these five patients have died following 
+the development of myeloid neoplasm. One out of the five cases of myeloid neoplasm 
+occurred after initiation of subsequent antimyeloma therapy.
+T cell malignancies have occurred following treatment of hematologic malignancies 
+with BCMA- and CD19-directed genetically modified autologous T cell immunotherapies, 
+including ABECMA. Mature T cell malignancies, including CAR-positive tumors, may 
+present as soon as weeks following infusion, and may include fatal outcomes [see Boxed 
+Warning, Adverse Reactions (6.3), Patient Counseling Information (17)].
+Monitor life-long for secondary malignancies. In the event that a secondary malignancy 
+occurs, contact Bristol-Myers Squibb at 1-888-805-4555 for reporting and to obtain 
+instructions on collection of patient samples for testing of secondary malignancy.
+5.11 Effects on Ability to Drive and Use Machines
+Due to the potential for neurologic events, including altered mental status or seizures, 
+patients receiving ABECMA are at risk for altered or decreased consciousness or 
+coordination in the eight weeks following ABECMA infusion. Advise patients to refrain 
+from driving and engaging in hazardous occupations or activities, such as operating 
+heavy or potentially dangerous machinery, during this initial period.
+6 ADVERSE REACTIONS
+The following adverse reactions are described elsewhere in the labeling:
+• Early Death [see Warnings and Precautions (5.1), Clinical Studies (14)]
+• Cytokine Release Syndrome [see Warnings and Precautions (5.2)]
+• Neurologic Toxicities [see Warnings and Precautions (5.3)]
+• Hemophagocytic Lymphohistiocytosis (HLH)/Macrophage Activation Syndrome 
+(MAS) [see Warnings and Precautions (5.4)]
+• Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
+• Infections [see Warnings and Precautions (5.7)]
+• Prolonged Cytopenias [see Warnings and Precautions (5.8)]
+• Hypogammaglobulinemia [see Warnings and Precautions (5.9)]
+6.1 Clinical Trials Experience
+Because clinical trials are conducted under widely varying conditions, adverse reaction 
+rates observed in the clinical trials of a drug cannot be directly compared to rates in the 
+clinical trials of another drug and may not reflect the rates observed in clinical practice.
+The safety data described in the WARNINGS and PRECAUTIONS section reflect 
+exposure to ABECMA in 349 patients with relapsed or refractory multiple myeloma:  ABECMA® (idecabtagene vicleucel) ABECMA® (idecabtagene vicleucel)one randomized, open-label study with 222 patients in KarMMa-3 and one single-arm, 
+open-label study with 127 patients in KarMMa.
+KarMMa-3 Study
+The safety data described in this section reflect the exposure to ABECMA in the 
+KarMMa-3 study, in which 222 patients with relapsed or refractory multiple myeloma 
+received ABECMA across a dose range of 175 to 529 x 106 CAR-positive T cells (median 
+dose: 445 x 106 CAR-positive T cells) [see Clinical Studies (14)] . Patients with a history 
+of CNS disease or requiring ongoing treatment with chronic immunosuppression were 
+excluded. The median age of the safety population was 63 years (range: 30 to 81 years); 
+43% were 65 years or older, and 63% were men. The Eastern Cooperative Oncology 
+Group (ECOG) performance status at baseline was 0 in 47%, 1 in 51%, 2 in 1.4% and  
+3 in 0.5% of patients. Four (1.8%) patients treated with ABECMA had creatinine 
+clearance <45 mL/min. For details about the study population, see Clinical Studies (14). 
+The most common (greater than or equal to 10%) Grade 3 or 4 nonlaboratory adverse 
+reactions was febrile neutropenia (51%) and any infections (16%).
+The most common nonlaboratory adverse reactions (incidence greater than or equal to 
+20%) included CRS, pyrexia, any infection, febrile neutropenia, hypogammaglobulinemia, 
+musculoskeletal pain, hypotension, infections – pathogen unspecified, fatigue, 
+tachycardia, diarrhea, nausea, headache, encephalopathy, dyspnea and edema.
+Serious adverse reactions occurred in 43% of patients. The most common nonlaboratory 
+(greater than or equal to 5%) serious adverse reactions included infections – pathogen 
+unspecified (10%), pneumonia (9%), viral infections (8%), encephalopathy (6%), pyrexia 
+(6%) and sepsis (5%). Fatal adverse reactions occurred in 9%.
+Table 3 summarizes the adverse reactions that occurred in at least 10% of patients 
+treated with ABECMA. Table 4 describes the most common Grade 3 or 4 laboratory 
+abnormalities.
+Table 3: Adverse Reactions Observed in at Least 10% of Patients Treated in 
+the KarMMa-3 Study
+ABECMA  
+(N=222)Standard Regimens  
+(N=126)
+Any Grade  
+(%)Grade 3 or 4  
+(%)Any Grade  
+(%)Grade 3 or 4  
+(%)
+Blood and lymphatic system disorders
+ Febrile neutropenia 51 51 28 28
+ Coagulopathy a  14 2.7 4.8 0.8
+Cardiac disorders
+ Tachycardia b  32 0 21 0
+Gastrointestinal disorders
+ Diarrhea c  31 2.3 35 3.2
+ Nausea 27 0.9 48 0
+ Constipation 17 0 15 0
+ Vomiting d  14 0 17 0
+ Abdominal pain e  10 0.5 14 0
+General disorders and administration site conditions
+ Pyrexia 91 9 53 6
+ Fatigue f  33 1.4 48 4
+ Edema g  20 0.5 28 2.4
+ Chills 19 0.5 13 0
+Immune system disorders
+ Cytokine release syndrome 91 4.1 40 0.8
+ Hypogammaglobulinemia 48 0.9 25 0
+Infections and infestations
+ Any infection 56 16 64 18
+ Infections – Pathogen  
+ unspecified h 35 9 40 11
+ Upper respiratory tract  
+ infection i 19 1.8 17 0.8
+ Infections – Viral h  18 5 28 6
+ Infections – Bacterial h  15 4.5 19 8
+ Pneumonia j  13 8 13 11
+Metabolism and nutrition disorders
+ Decreased appetite 17 1.8 21 0
+Musculoskeletal and connective tissue disorders
+ Musculoskeletal pain k  36 1.8 49 8
+(Continued)Table 3: Adverse Reactions Observed in at Least 10% of Patients Treated in 
+the KarMMa-3 Study
+ABECMA  
+(N=222)Standard Regimens  
+(N=126)
+Any Grade  
+(%)Grade 3 or 4  
+(%)Any Grade  
+(%)Grade 3 or 4  
+(%)
+Nervous system disorders
+ Headache l  24 0 29 1.6
+ Encephalopathy m  22 3.6 21 4.8
+ Dizziness n  14 1.8 18 3.2
+ Neuropathy o  10 0 21 0.8
+Psychiatric disorders
+ Sleep disorder p  11 0 22 2.4
+Renal and urinary disorders
+ Renal failure q  13 5 15 4
+Respiratory, thoracic, and mediastinal disorders
+ Dyspnea r  21 1.8 31 2.4
+ Cough s  14 0 21 0
+ Hypoxia t  18 6 8 1.6
+Vascular disorders
+ Hypotension u  36 2.3 19 1.6
+ Hypertension 14 7 21 11
+Skin disorders
+ Rash v  10 0 19 0.8
+CAR=chimeric antigen receptor.
+a Coagulopathy includes activated partial thromboplastin time prolonged, blood fibrinogen 
+decreased, coagulopathy, disseminated intravascular coagulation, hypofibrinogenemia, 
+international normalized ratio increased, prothrombin time prolonged.
+b Tachycardia includes heart rate increased, sinus tachycardia, tachycardia.
+c Diarrhea includes colitis, colitis microscopic, diarrhea, enterocolitis.
+d Vomiting includes retching, vomiting.
+e Abdominal pain includes abdominal discomfort, abdominal pain, abdominal pain lower, 
+abdominal pain upper, dyspepsia.
+f Fatigue includes asthenia, fatigue, malaise, muscle fatigue.
+g Edema includes edema, edema peripheral, generalized edema, peripheral swelling, 
+swelling, eyelid edema, face edema, fluid retention, hypervolemia, localized edema, mouth 
+swelling, periorbital edema, periorbital swelling, swelling face.
+h Infections and infestations System Organ Class Adverse Events are grouped by high level 
+grouped term (HLGT) pathogen type. 
+i Upper respiratory tract infection includes acute sinusitis, epiglottitis, HCoV-OC43 infection, 
+nasopharyngitis, pharyngeal inflammation, pharyngitis, pharyngitis streptococcal, 
+respiratory tract infection, respiratory tract infection bacterial, rhinitis, rhinovirus infection, 
+sinusitis, upper respiratory tract infection, viral upper respiratory tract infection.
+j Pneumonia includes bronchopulmonary aspergillosis, coronavirus pneumonia, COVID-19 
+pneumonia, organizing pneumonia, pneumonia, pneumonia acinetobacter, pneumonia 
+adenoviral, pneumonia aspiration, pneumonia bacterial, pneumonia fungal, pneumonia 
+influenzas, pneumonia legionella, pneumonia parainfluenza viral, pneumonia pseudomonal, 
+pneumonia streptococcal, pneumonia viral, pulmonary nocardiosis.
+k Musculoskeletal pain includes arthralgia, back pain, bone pain, joint stiffness, muscle 
+strain, musculoskeletal chest pain, musculoskeletal discomfort, musculoskeletal pain, 
+musculoskeletal stiffness, myalgia, neck pain, non-cardiac chest pain. 
+l Headache includes headache, head discomfort.
+m Encephalopathy includes amnesia, cognitive disorder, confusional state, depressed level 
+of consciousness, disturbance in attention, dysgraphia, encephalopathy, Immune effector 
+cell-associated neurotoxicity syndrome incoherent, lethargy, memory impairment, mental 
+status changes, metabolic encephalopathy, somnolence, stupor, toxic encephalopathy.
+n Dizziness includes dizziness, presyncope, syncope, vertigo, vertigo positional, vestibular 
+disorder.
+o Neuropathy includes carpal tunnel syndrome, dysesthesia, hyperesthesia, hypoesthesia, 
+hypoesthesia oral, mononeuropathy, neuralgia, neuritis, neuropathy peripheral, paresthesia, 
+paresthesia oral, peripheral motor neuropathy, peripheral sensorimotor neuropathy, 
+peripheral sensory neuropathy, peroneal nerve palsy, radicular pain, radiculopathy, sacral 
+radiculopathy, sciatica, sensory loss, toxic neuropathy.
+p Sleep disorder includes hypersomnia, insomnia, sleep disorder.
+q Renal failure includes acute kidney injury, blood creatinine increased, chronic kidney 
+disease, creatinine renal clearance decreased, glomerular filtration rate decreased, 
+nephropathy toxic, oliguria, renal failure, renal impairment, urine output decreased.
+r Dyspnea includes dyspnea, dyspnea exertional, dyspnea paroxysmal nocturnal, tachypnea.
+s Cough includes cough, productive cough, upper-airway cough syndrome.
+t Hypoxia includes hypoxia, oxygen saturation decreased.
+u Hypotension includes hemodynamic instability, hypotension, orthostatic hypotension.
+v Rash includes acne, catheter site dermatitis, catheter site rash, dermatitis, dermatitis 
+contact, drug eruption, eczema, erythema, papulopustular rosacea, photosensitivity 
+reaction, rash, rash follicular, rash macular, rash maculo-papular, rash papular, rash 
+pruritic, skin irritation, skin lesion, urticaria.(Continued)ABECMA® (idecabtagene vicleucel) ABECMA® (idecabtagene vicleucel)Other clinically important adverse reactions that occurred in less than 10% of patients 
+treated with ABECMA include the following: 
+• Cardiac disorders: cardiac arrhythmia (7%)
+• Gastrointestinal disorders: gastrointestinal hemorrhage (0.5%)
+• Immune system disorders: hemophagocytic lymphohistiocytosis (2.3%)
+• Infections and infestations: infections - fungal (5%), sepsis a (6%)
+• Musculoskeletal and connective tissue disorders: motor dysfunction b (9%)
+• Nervous system disorders: tremor c (4.1%), aphasia d (3.2%), ataxia e (2.3%),  
+seizure (0.5%)
+• Psychiatric disorders: anxiety (4.1%), delirium f (7%)
+• Respiratory, thoracic, and mediastinal disorders: pulmonary edema g (1.4%)
+• Vascular disorders: thrombosis h (3.2%)
+a Sepsis includes bacteremia, bacterial sepsis, candida sepsis, citrobacter bacteremia, 
+clostridial sepsis, device related bacteremia, enterococcal sepsis, klebsiella bacteremia, 
+klebsiella sepsis, multiple organ dysfunction syndrome, neutropenic sepsis, pulmonary 
+sepsis, sepsis, septic shock, staphylococcal bacteremia, streptococcal bacteremia, 
+streptococcal sepsis.
+b Motor dysfunction includes akathisia, dyskinesia, dysphonia, hypertonia, muscle spasms, 
+muscle twitching, muscular weakness, restless legs syndrome.
+c Tremor includes head titubation, intention tremor, resting tremor, tremor.
+d Aphasia includes aphasia, dysarthria, slow speech, speech disorder.
+e Ataxia includes ataxia, balance disorder, dysmetria, gait disturbance.
+f Delirium includes agitation, delirium, disorientation, hallucination, hallucination auditory, 
+hallucination visual, restlessness.
+g Pulmonary edema includes pulmonary congestion and pulmonary edema.
+h Thrombosis includes deep vein thrombosis, device related thrombosis, embolism, 
+pulmonary embolism, thrombosis, thrombosis in device.
+Laboratory Abnormalities
+Table 4 presents the most common Grade 3 or 4 laboratory abnormalities, based on 
+laboratory data, occurring in at least 10% of patients.
+Table 4: Grade 3 or 4 a Laboratory Abnormalities Worsening from Baseline in 
+at Least 10% of Patients Treated in the KarMMa-3 Study 
+Laboratory AbnormalityABECMA
+ N=222
+(%)Standard Regimens 
+N=126 
+(%)
+Grade 3 or 4 (%) Grade 3 or 4 (%)
+Lymphocyte decreased 98 78
+Leukocyte decreased 96 64
+Neutrophil decreased 96 72
+Platelet decreased 59 46
+Hemoglobin decreased 52 45
+Phosphate decreased 45 30
+Triglyceride increased 21 10
+Alanine aminotransferase increased 13 8
+Sodium decreased 11 7
+Gamma-glutamyltransferase increased 10 6
+CAR=chimeric antigen receptor; CTCAE=Common Terminology Criteria for Adverse Events; 
+NCI=National Cancer Institute.
+a Laboratory tests were graded according to NCI CTCAE Version 4.03.
+Other clinically important Grade 3 or 4 laboratory abnormalities (based on laboratory 
+data) that occurred in less than 10% of patients treated with ABECMA include the 
+following: aspartate aminotransferase increased, potassium decreased, albumin 
+decreased, alkaline phosphatase increased, calcium decreased, glucose increased, 
+activated partial thromboplastin time increased (seconds), fibrinogen decreased, bilirubin 
+increased and hypomagnesemia. 
+KarMMa Study
+The safety data described in this section reflect the exposure to ABECMA in the KarMMa 
+study, in which 127 patients with relapsed/refractory multiple myeloma received 
+ABECMA across a dose range of 150 to 518 x 106 CAR-positive T cells [see Clinical 
+Studies (14)] . Patients with a history of CNS disease (such as seizure or cerebrovascular 
+ischemia) or requiring ongoing treatment with chronic immunosuppression were 
+excluded. The median duration of follow-up was 11.4 months. The median age of the 
+study population was 61 years (range: 33 to 78 years); 35% were 65 years or older, and 
+60% were men. The Eastern Cooperative Oncology Group (ECOG) performance status at 
+baseline was 0 in 45%, 1 in 53%, and 2 in 2% of patients. Seven percent of the patients 
+treated with ABECMA had creatinine clearance <45 mL/min. For details about the study 
+population, see Clinical Studies (14). 
+The most common (greater than or equal to 10%) Grade 3 or 4 nonlaboratory adverse 
+reactions were febrile neutropenia (16%) and infections – pathogen unspecified (15%). The most common nonlaboratory adverse reactions (incidence greater than or equal 
+to 20%) included CRS, infections – pathogen unspecified, fatigue, musculoskeletal 
+pain, hypogammaglobulinemia, diarrhea, upper respiratory tract infection, nausea, viral 
+infections, encephalopathy, edema, pyrexia, cough, headache, and decreased appetite.
+Serious adverse reactions occurred in 67% of patients. The most common nonlaboratory 
+(greater than or equal to 5%) serious adverse reactions included CRS (18%), general 
+physical health deterioration (10%), pneumonia (12%), infections-pathogen unspecified 
+(19%), viral infections (9%), sepsis (7%), and febrile neutropenia (6%). Fatal adverse 
+reactions occurred in 6%.
+Table 5 summarizes the adverse reactions that occurred in at least 10% of patients 
+treated with ABECMA. Table 6 describes the most common Grade 3 or 4 laboratory 
+abnormalities.
+Table 5: Adverse Reactions Observed in at Least 10% of Patients Treated 
+with ABECMA in the KarMMa Study
+System Organ Class
+Preferred TermTarget Dose of ABECMA (CAR-Positive T Cells)
+Any Grade Grade 3 or Higher
+[150 to 450 x 106] 
+(N=127)  
+%[150 to 450 x 106] 
+(N=127)  
+%
+Blood and lymphatic system disorders
+ Febrile neutropenia 16 16
+Cardiac disorders
+ Tachycardia a  19 0
+Gastrointestinal disorders
+ Diarrhea 35 1.6
+ Nausea 29 0
+ Constipation 16 0
+ Vomiting 15 0
+ Oral pain b  12 0
+General disorders and administration site conditions
+ Fatigue c  45 3.1
+ Pyrexia 25 1.6
+ General physical health deterioration 11 10
+ Edema d  25 0
+ Chills 11 0
+Immune system disorders
+ Cytokine release syndrome 85 9
+ Hypogammaglobulinemia e  41 0.8
+Infections and infestations f 
+ Infections – Pathogen unspecified 51 15
+ Viral infections 27 9
+ Bacterial infections 15 3.9
+ Pneumonia g  17 9
+ Upper respiratory tract infection h  34 1.6
+Investigations
+ Weight decreased 13 1.6
+Metabolism and nutrition disorders
+ Decreased appetite i  22 0.8
+Musculoskeletal and connective tissue disorders
+ Musculoskeletal pain j  45 3.1
+ Motor dysfunction k  11 0
+Nervous system disorders
+ Encephalopathy l  26 6
+ Headache m  23 0
+ Dizziness n  17 0.8
+ Neuropathy peripheral o  17 0.8
+ Tremor p  10 0
+Psychiatric disorders
+ Insomnia q  13 0
+ Anxiety r  12 0.8
+Renal and urinary disorders
+ Renal failure s  10 2.4
+(Continued)ABECMA® (idecabtagene vicleucel) ABECMA® (idecabtagene vicleucel)Table 5: Adverse Reactions Observed in at Least 10% of Patients Treated 
+with ABECMA in the KarMMa Study
+Respiratory, thoracic, and mediastinal disorders
+ Cough t  23 0
+ Dyspnea u  13 2.4
+Skin and subcutaneous tissue disorder
+ Rash v  14 0.8
+ Xerosis w  11 0
+Vascular disorders
+ Hypotension x  17 0
+ Hypertension 11 3.1
+CAR=chimeric antigen receptor.
+a Tachycardia includes sinus tachycardia, tachycardia.
+b Oral pain includes oral pain, oropharyngeal pain, toothache.
+c Fatigue includes asthenia, fatigue, malaise.
+d Edema includes edema, face edema, fluid overload, fluid retention, generalized edema, 
+peripheral edema, peripheral swelling, scrotal swelling, swelling.
+e Hypogammaglobulinemia includes patients with adverse events (21%) of blood 
+immunoglobulin G decreased, hypogammaglobulinemia, hypoglobulinemia; and/or patients 
+with laboratory IgG levels below 500 mg/dL following ABECMA infusion (25%).
+f Infections and infestations System Organ Class Adverse Events are grouped by pathogen 
+type and selected clinical syndromes.
+g Pneumonia includes bronchopulmonary aspergillosis, lung infection, pneumonia, 
+pneumonia aspiration, pneumonia cytomegaloviral, pneumonia pneumococcal, pneumonia 
+pseudomonal. Pneumonias may also be included under pathogen categories.
+h Upper respiratory tract infection includes laryngitis, nasopharyngitis, pharyngeal erythema, 
+pharyngitis, respiratory tract congestion, respiratory tract infection, rhinitis, rhinovirus 
+infection, sinusitis, upper respiratory tract infection, upper respiratory tract infection 
+bacterial. Upper respiratory tract infections may also be included under pathogen 
+categories.
+i Decreased appetite includes decreased appetite, hypophagia.
+j Musculoskeletal pain includes arthralgia, back pain, bone pain, musculoskeletal chest pain, 
+musculoskeletal discomfort, musculoskeletal pain, musculoskeletal stiffness, myalgia, neck 
+pain, spinal pain.
+k Motor dysfunction includes dysphonia, eyelid ptosis, hypotonia, motor dysfunction, muscle 
+spasms, muscular weakness, restless legs syndrome.
+l Encephalopathy includes amnesia, bradyphrenia, cognitive disorder, confusional state, 
+depressed level of consciousness, disturbance in attention, dyscalculia, dysgraphia, 
+encephalopathy, lethargy, memory impairment, mental status changes, metabolic 
+encephalopathy, somnolence, toxic encephalopathy.
+m Headache includes headache, head discomfort, sinus headache.
+n Dizziness includes dizziness, presyncope, syncope, vertigo.
+o Neuropathy peripheral includes carpal tunnel syndrome, hypoesthesia, hypoesthesia 
+oral, neuralgia, neuropathy peripheral, paresthesia, peripheral sensorimotor neuropathy, 
+peripheral sensory neuropathy, sciatica.
+p Tremor includes asterixis, tremor.
+q Insomnia includes insomnia, sleep deficit, sleep disorder.
+r Anxiety includes anxiety, feeling jittery, nervousness.
+s Renal failure includes acute kidney injury, blood creatinine increased, chronic kidney 
+disease, renal failure, renal impairment.
+t Cough includes cough, productive cough, upper-airway cough syndrome.
+u Dyspnea includes acute respiratory failure, dyspnea, dyspnea exertional, respiratory failure.
+v Rash includes acne, dermatitis, dermatitis bullous, erythema, rash, rash macular, rash 
+papular, urticaria.
+w Xerosis includes dry eye, dry mouth, dry skin, lip dry, xerosis.
+x Hypotension includes hypotension, orthostatic hypotension.
+Other clinically important adverse reactions that occurred in less than 10% of patients 
+treated with ABECMA include the following:
+• Blood and lymphatic system disorders: coagulopathy  a (9%)
+• Cardiac disorders: atrial fibrillation (4.7%), cardiomyopathy b (1.6%)
+• Gastrointestinal disorders: gastrointestinal hemorrhage c (3.1%)
+• Immune system disorders: hemophagocytic lymphohistiocytosis (3.1%)
+• Infections and infestations: fungal infections (8%), sepsis d (9%)
+• Nervous system disorders: aphasia e (7%), ataxia f (3.1%), paresis g (2.4%), seizure 
+(1.6%)
+• Psychiatric disorders: delirium h (6%)
+• Respiratory, thoracic, and mediastinal disorders: hypoxia (2.4%), pulmonary edema 
+(2.4%)
+• Vascular disorders: thrombosis i (3.1%)
+a Coagulopathy includes activated partial thromboplastin time prolonged, anticoagulation 
+drug level above therapeutic, disseminated intravascular coagulation, international 
+normalized ratio increased.
+b Cardiomyopathy includes stress cardiomyopathy, ventricular hypertrophy.c Gastrointestinal hemorrhage includes gastrointestinal hemorrhage, hemorrhoidal 
+hemorrhage, melena.
+d Sepsis includes bacteremia, enterococcal bacteremia, Escherichia bacteremia, sepsis, 
+septic shock, Serratia bacteremia, streptococcal bacteremia.
+e Aphasia includes aphasia, dysarthria.
+f Ataxia includes ataxia, gait disturbance, Romberg test positive.
+g Paresis includes cranial nerve disorder, hemiparesis.
+h Delirium includes delirium, disorientation, hallucination.
+i Thrombosis includes deep vein thrombosis, jugular vein thrombosis, portal vein 
+thrombosis, pulmonary embolism.
+Laboratory Abnormalities
+Table 6 presents the most common Grade 3 or 4 laboratory abnormalities, based on 
+laboratory data, occurring in at least 10% of patients.
+Table 6: Grade 3 or 4 a Laboratory Abnormalities Worsening from Baseline in 
+at Least 10% of Patients Treated with ABECMA in the KarMMa Study 
+Laboratory AbnormalityDose=[150 to 450 x 106 CAR-Positive T cells]  
+(N=127)  
+%
+Grade 3 or 4 (%)
+Neutrophil decreased 96
+Leukocyte decreased 96
+Lymphocyte decreased 92
+Platelet decreased 63
+Hemoglobin decreased 63
+Phosphate decreased 45
+Sodium decreased 10
+aPTT increased (seconds) 10
+a NCI CTCAE = Common Terminology Criteria for Adverse Events version 4.03.
+aPTT = activated partial thromboplastin time; CAR=chimeric antigen receptor; 
+CTCAE = Common Terminology Criteria for Adverse Events; NCI=National Cancer Institute.
+Laboratory tests were graded according to NCI CTCAE Version 4.03. Laboratory 
+abnormalities are sorted by decreasing frequency in the 150 to 450 x 106 column.
+Other clinically important Grade 3 or 4 laboratory abnormalities (based on laboratory 
+data) that occurred in less than 10% of patients treated with ABECMA include the 
+following: alanine aminotransferase increased, aspartate aminotransferase increased, 
+albumin decreased, alkaline phosphatase increased, glucose increased, potassium 
+decreased, bilirubin increased, fibrinogen decreased, and calcium decreased.
+6.2 Immunogenicity
+ABECMA has the potential to induce anti-product antibodies. In clinical studies, humoral 
+immunogenicity of ABECMA was measured by determination of anti-CAR antibody in 
+serum pre- and post-administration. In the clinical studies, 2.6% of patients (9/349) 
+tested positive for pre-infusion anti-CAR antibodies and treatment-induced anti-CAR 
+antibodies were detected in 53% (186/349) of the patients. There is no identified 
+clinically significant impact of pre-existing or post-infusion anti-CAR antibodies on the 
+cellular expansion, safety, or effectiveness of ABECMA.
+6.3 Postmarketing Experience
+Because adverse events to marketed products are reported voluntarily from a population 
+of uncertain size, it is not always possible to reliably estimate their frequency or establish 
+a causal relationship to product exposure.
+The following adverse event has been identified during postmarketing use of ABECMA:
+Nervous system disorders:  Immune effector cell-associated neurotoxicity 
+syndrome (ICANS).
+The following adverse event has been identified during postmarketing use of BCMA- or 
+CD19-directed genetically modified autologous T cell immunotherapies:
+Neoplasms:  T cell malignancies.
+7 DRUG INTERACTIONS
+Drug/Laboratory Test Interactions
+HIV and the lentivirus used to make ABECMA have limited, short spans of identical 
+genetic material (RNA). Therefore, some commercial HIV nucleic acid tests may yield 
+false-positive results in patients who have received ABECMA.
+8 USE IN SPECIFIC POPULATIONS
+8.1 Pregnancy
+Risk Summary
+There are no available data with ABECMA use in pregnant women. No animal 
+reproductive and developmental toxicity studies have been conducted with ABECMA to 
+assess whether it can cause fetal harm when administered to a pregnant woman.(Continued)ABECMA® (idecabtagene vicleucel) ABECMA® (idecabtagene vicleucel)It is not known if ABECMA has the potential to be transferred to the fetus. Based on the 
+mechanism of action, if the transduced cells cross the placenta, they may cause fetal 
+toxicity, including plasma cell aplasia or hypogammaglobulinemia. Therefore, ABECMA is 
+not recommended for women who are pregnant, and pregnancy after ABECMA infusion 
+should be discussed with the treating physician. Assess immunoglobulin levels in 
+newborns of mothers treated with ABECMA.
+The estimated background risk of major birth defects and miscarriage for the indicated 
+population is unknown. The estimated background risk in the U.S. general population 
+of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically 
+recognized pregnancies.
+8.2 Lactation
+Risk Summary
+There is no information regarding the presence of ABECMA in human milk, the effect on 
+the breastfed infant, and the effects on milk production. The developmental and health 
+benefits of breastfeeding should be considered along with the mother’s clinical need for 
+ABECMA and any potential adverse effects on the breastfed infant from ABECMA or from 
+the underlying maternal condition.
+8.3 Females and Males of Reproductive Potential
+Pregnancy Testing
+Pregnancy status of sexually active females with reproductive potential should be verified 
+via pregnancy testing prior to starting treatment with ABECMA.
+Contraception
+See the prescribing information for fludarabine and cyclophosphamide for information 
+on the need for effective contraception in patients who receive the lymphodepleting 
+chemotherapy.
+There are insufficient exposure data to provide a recommendation concerning duration 
+of contraception following treatment with ABECMA.
+Infertility
+There are no data on the effect of ABECMA on fertility.
+8.4 Pediatric Use
+The safety and efficacy of ABECMA in patients under 18 years of age have not been 
+established.
+8.5 Geriatric Use
+In the clinical trials of ABECMA, 141 (40%) of the 349 patients were 65 years of age or 
+older and 16/349 (4.6%) patients were 75 years of age or older. In KarMMa study, all five 
+cases of Grade 3 neurotoxicity occurred in patients ≥65 years of age (66 to 74 years). 
+No clinically important differences in effectiveness of ABECMA were observed between 
+these patients and patients younger than 65 years of age.
+11 DESCRIPTION
+ABECMA is a BCMA-directed genetically modified autologous T cell immunotherapy 
+product consisting of a patient’s own T cells that are harvested and genetically modified 
+ex vivo through transduction with an anti-BCMA02 chimeric antigen receptor (CAR) 
+lentiviral vector (LVV). Autologous T cells transduced with the anti-BCMA02 CAR LVV 
+express the anti-BCMA CAR on the T cell surface. The CAR is comprised of a murine 
+extracellular single-chain variable fragment (scFv) specific for recognizing B cell 
+maturation antigen (BCMA) followed by a human CD8α  hinge and transmembrane 
+domain fused to the T cell cytoplasmic signaling domains of CD137 (4-1BB) and CD3ζ 
+chain, in tandem. Binding of ABECMA to BCMA-expressing target cells leads to signaling 
+initiated by CD3ζ  and 4-1BB domains, and subsequent CAR-positive T cell activation. 
+Antigen-specific activation of ABECMA results in CAR-positive T cell proliferation, 
+cytokine secretion, and subsequent cytolytic killing of BCMA-expressing cells.
+ABECMA is prepared from the patient’s peripheral blood mononuclear cells (PBMCs), 
+which are obtained via a standard leukapheresis procedure. The mononuclear cells are 
+enriched for T cells, through activation with anti-CD3 and anti-CD28 antibodies in the 
+presence of IL-2, which are then transduced with the replication-incompetent lentiviral 
+vector containing the anti-BCMA CAR transgene. The transduced T cells are expanded 
+in cell culture, washed, formulated into a suspension, and cryopreserved. The product 
+must pass a sterility test before release for shipping as a frozen suspension in one 
+or more patient-specific infusion bag(s). The product is thawed prior to infusion back 
+into the patient [see Dosage and Administration (2.3) and How Supplied/Storage and 
+Handling (16)].
+The ABECMA formulation contains 50% Plasma-Lyte A and 50% CryoStor® CS10, 
+resulting in a final DMSO concentration of 5%.
+12 CLINICAL PHARMACOLOGY
+12.1 Mechanism of Action
+ABECMA is a chimeric antigen receptor (CAR)-positive T cell therapy targeting B-cell 
+maturation antigen (BCMA), which is expressed on the surface of normal and malignant 
+plasma cells. The CAR construct includes an anti-BCMA scFv-targeting domain for antigen specificity, a transmembrane domain, a CD3-zeta T cell activation domain, 
+and a 4-1BB costimulatory domain. Antigen-specific activation of ABECMA results in 
+CAR-positive T cell proliferation, cytokine secretion, and subsequent cytolytic killing of 
+BCMA-expressing cells.
+12.2 Pharmacodynamics
+Following ABECMA infusion, pharmacodynamic responses of CAR activation and 
+anti-tumor efficacy were evaluated. Peak elevation of plasma cytokines, chemokines, 
+and soluble immune mediators occurred within 14 days of ABECMA infusion and 
+returned to baseline levels within one month.
+Rapid decreases in tumor markers associated with clinical response, including serum 
+levels of soluble BCMA, and bone marrow CD138 + cells, as well as minimal residual 
+disease (MRD) negative responses, were observed within the first month following 
+ABECMA infusion.
+12.3 Pharmacokinetics
+Following ABECMA infusion, the CAR-positive T cells proliferate and undergo rapid 
+multi-log expansion followed by a bi-exponential decline. The median time of maximal 
+expansion in peripheral blood (T max) occurred 11 days after infusion.
+ABECMA can persist in peripheral blood for up to 1 year post-infusion. A summary of 
+Tmax, AUC 0-28days , and C max from KarMMa and KarMMa-3 is provided in Table 7.
+Table 7: Pharmacokinetic Parameters of ABECMA in Patients with Relapsed/
+Refractory Multiple Myeloma
+Pharmacokinetic 
+ParameterSummary  
+StatisticKarMMa Study
+Total [300 to 460 x 106]
+CAR-Positive T Cells
+(Quantified by qPCR) a KarMMa-3 Study
+Total [300 to 510 x 106]
+CAR-Positive T Cells
+(Quantified by ddPCR) b 
+Tmax (days) Median  
+(Range)11 (7-28)  
+N = 9911 (4-31)  
+N = 207
+Cmax (copies/mcg) Geometric mean 
+(geometric CV%)256,333 (165)  
+N = 99117,557 (215)  
+N = 207
+AUC 0-28days  
+(days*copies/mcg)Geometric mean 
+(geometric CV%)3,088,455 (190)  
+N = 981,098,862 (228)  
+N = 205
+AUC 0-28days  = area under the curve of the transgene level from time of dose to 28 days 
+post-infusion; C max = the maximum transgene level; ddPCR  = droplet digital polymerase 
+chain reaction; qPCR = quantitative polymerase chain reaction; PK = pharmacokinetics;  
+Tmax = time of maximum observed transgene level.
+a The PK parameters of KarMMa study were determined by time course of transgene copies 
+per microgram of DNA extracted from CD3 + sorted cells as quantified by quantitative 
+polymerase chain reaction (qPCR).
+b The PK parameters of KarMMa-3 Study were determined by time course of transgene 
+copies per microgram of DNA extracted from whole blood as quantified by droplet digital 
+PCR (ddPCR).
+Note: The PK parameters should not be directly compared between KarMMa and KarMMa-3 
+due to different primary PK assays used in these two studies.
+ABECMA transgene levels were positively associated with objective tumor response 
+(partial response or better). Among patients who received ABECMA in KarMMa, the 
+median C max levels in responders (N = 72) were approximately 4.6-fold higher than 
+the corresponding levels in non-responders (N = 27). Median AUC 0-28days  in responders 
+(N = 72) was approximately 5.6-fold higher than non-responders (N  = 26). Among patients 
+who received ABECMA in KarMMa-3, the median C max levels in responders (N = 172) were 
+approximately 6.5-fold higher compared to the corresponding levels in non-responders 
+(N = 35). Median AUC 0-28days  in responders (N = 172) was approximately 6.1-fold  
+higher than non-responders (N = 33).
+Tocilizumab or Siltuximab and Corticosteroid Use
+Some patients required tocilizumab or siltuximab and/or corticosteroid for the 
+management of CRS. ABECMA can continue to expand and persist following tocilizumab 
+or siltuximab or corticosteroid administration [see Warnings and Precautions (5.2)].
+In KarMMa, patients with CRS treated with tocilizumab had higher ABECMA cellular 
+expansion levels, as measured by 1.3-fold and 1.6-fold higher median C max (N = 67) and 
+AUC 0-28days  (N = 66), respectively, compared to patients who did not receive tocilizumab 
+(N = 59 for C max and N = 58 for AUC 0-28days ).
+Patients with CRS treated with corticosteroids had higher ABECMA cellular expansion 
+levels, as measured by 1.7-fold and 2.2-fold higher median C max (N = 18) and AUC 0-28days  
+(N = 18), respectively, compared to patients who did not receive corticosteroids (N = 108 
+for C max and N = 10 6 for AUC 0-28days ).
+Similar trend was observed in KarMMa-3.
+Specific Populations
+Geriatric
+Age (range: 30 to 81 years) had no significant impact on expansion parameters [see Use 
+in Special Populations (8.5)].ABECMA® (idecabtagene vicleucel) ABECMA® (idecabtagene vicleucel)Pediatric
+The pharmacokinetics of ABECMA in patients less than 18 years of age have not been 
+evaluated.
+Patients with Hepatic/Renal Impairment
+Hepatic and renal impairment studies of ABECMA were not conducted.
+Patients with Other Intrinsic Factors
+Gender, race, and ethnicity had no significant impact on ABECMA expansion parameters. 
+Patients with lower body weight had higher expansion. Due to high variability in 
+pharmacokinetic cellular expansion, the overall effect of weight on the pharmacokinetics 
+of ABECMA is considered to be not clinically relevant.
+13 NONCLINICAL TOXICOLOGY
+13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+Genotoxicity assays and carcinogenicity studies in rodents were not performed 
+for ABECMA.
+In vitro expansion studies with CAR-positive T cells (ABECMA) from five patients and 
+two healthy donor drug product lots showed no evidence for transformation and/or 
+immortalization of T cells. A genomic insertion site analysis of the lentiviral vector was 
+performed on ABECMA samples from twenty (20) individual patient donors. There was 
+no evidence for preferential integration near genes of concern or preferential outgrowth 
+of cells harboring integration sites of concern.
+No studies on the effects of ABECMA on fertility have been conducted.
+14 CLINICAL STUDIES
+Relapsed/Refractory Multiple Myeloma After Two to Four Prior Lines of Therapy
+Efficacy of ABECMA was evaluated in KarMMa-3 (NCT03651128), an open-label, 
+multicenter, randomized, controlled study in adult patients with relapsed and refractory 
+multiple myeloma who had received two to four prior antimyeloma therapies including 
+an immunomodulatory agent, a proteasome inhibitor and daratumumab, and were 
+refractory to the most recent prior antimyeloma regimen. The study included patients 
+who achieved a response (minimal response or better) to at least 1 prior treatment 
+regimen and had ECOG performance status of 0 or 1. The study excluded patients with 
+serum creatinine clearance <45 mL/min, serum aspartate aminotransferase (AST) or 
+alanine aminotransferase (ALT) >2.5 times upper limit of normal, and left ventricular 
+ejection fraction (LVEF) <45%. Patients were also excluded if absolute neutrophil count 
+<1000/µL and platelet count <75,000/μL in patients in whom <50% of bone marrow 
+nucleated cells are plasma cells and platelet count <50,000/μL in patients in whom 
+≥50% of bone marrow nucleated cells are plasma cells.
+In total, 386 patients were randomized 2:1 to receive either ABECMA (N  = 254) or 
+standard regimens (N = 132). The standard regimens consisted of daratumumab, 
+pomalidomide, dexamethasone [DPd], daratumumab, bortezomib, dexamethasone 
+[DVd], ixazomib, lenalidomide, dexamethasone [IRd], carfilzomib, dexamethasone [Kd], 
+or elotuzumab, pomalidomide, dexamethasone [EPd]), selected by Investigator prior 
+to randomization contingent upon the patient’s most recent antimyeloma treatment. 
+Randomization was stratified by age, number of prior antimyeloma regimens, and 
+presence of high-risk cytogenetics abnormalities.
+Patients randomized to ABECMA were to receive lymphodepleting chemotherapy 
+consisting of cyclophosphamide (300 mg/m2 IV infusion daily for 3 days) and fludarabine 
+(30 mg/m2 IV infusion daily for 3 days) starting 5 days prior to the target infusion date of 
+ABECMA. Up to 1 cycle of DPd, DVd, IRd, Kd or EPd bridging therapy, dependent on the 
+patient’s most recent antimyeloma treatment regimen, was permitted for disease control 
+between apheresis and until 14 days before the start of lymphodepleting chemotherapy.
+Of the 254 patients randomized to receive ABECMA, 249 (98%) patients underwent 
+leukapheresis:
+• Five (2%) patients did not receive leukapheresis due to patient withdrawal (n  = 2), 
+adverse event (n  = 1) or failure to meet lymphodepleting chemotherapy treatment 
+criteria (n = 2).
+• Twenty-four (10%) patients did not receive ABECMA either due to death (n  = 4), 
+adverse event (n = 4), physician decision (n = 7), failure to meet lymphodepleting 
+chemotherapy treatment criteria (n = 6) or inability to manufacture product (n=3). 
+• Three (1.2%) patients received CAR-positive T cells that did not meet product release 
+specifications for ABECMA (non-conforming product; n = 3).
+The overall manufacturing failure rate for patients who underwent leukapheresis was 
+2.4% (6 out of 249 patients). Of these six patients, three received CAR positive T cells 
+that did not meet product release specifications for ABECMA, and in three patients there 
+was an inability to manufacture ABECMA.
+Most patients (85%) treated with ABECMA received bridging therapy for control of 
+their multiple myeloma during the manufacturing process. The median time from 
+leukapheresis to product availability was 35 days (range: 24 to 102 days).
+In overall study population, the median age was 63 years (range: 30 to 83 years), 61% 
+were male, 65% were white, 9.3% were black and 3.1% were Asian. Most patients 
+(80%) were Revised International Staging System (R-ISS) Stage I or II. High-risk cytogenetics [presence of t(4:14), (14:16), and 17p13 del] were present in 42% of 
+patients. Twenty-four percent of patients had presence of extramedullary disease.
+The median number of prior lines of therapy was 3 (range: 2 to 4). Thirty percent had 
+received 2 prior lines, 37% had received 3 prior lines of therapy and 32% had received 
+4 prior lines of therapy. Ninety-five percent were refractory to an anti-CD38 monoclonal 
+antibody. Sixty-six percent were triple class refractory (refractory to a PI, an IMiD and an 
+anti-CD38 monoclonal antibody), and 5% were penta-drug-refractory (refractory to 2 PIs, 
+2 IMiD agents, and an anti-CD38 monoclonal antibody). Eighty-five percent of patients 
+had received prior autologous stem cell transplantation.
+The primary efficacy measure was progression free survival (PFS) as determined by 
+Independent Review Committee (IRC) based on the International Myeloma Working 
+Group (IMWG) Uniform Response Criteria2 for Multiple Myeloma. Other efficacy measures 
+included overall response rate (ORR) and overall survival (OS). Efficacy results are 
+summarized in Table 8, and Kaplan-Meier curve for PFS is provided in Figure 2. 
+The estimated median duration of follow-up at the primary PFS analysis was 
+15.9 months (95% CI: 14.1, 18.0).
+Table 8: Summary of Efficacy Results from KarMMa-3 (Intent-to-Treat 
+Population) 
+ABECMA Arm  
+(N = 254)Standard Regimens Arm  
+(N = 132)
+Progression Free Survival (PFS)
+ Number of events, n (%) 149 (59) 93 (70)
+ Median, months [95% CI] a  13.3 [11.8, 16.1] 4.4 [3.4, 5.9]
+ Hazard Ratio [95% CI] b  0.49 [0.38, 0.64]
+ One-sided p-valuec<0.0001
+Overall Response Rate (ORR),  n (%)
+ n (%) 181 (71) 55 (42)
+ 95% CI (%) d  (66, 77) (33, 50)
+ One-sided p-valuee<0.0001
+ CR or better (sCR +CR) 98 (39) 7 (5)
+  sCR 90 (35) 6 (4.5)
+  CR 8 (3.1) 1 (0.8)
+ VGPR 55 (22) 13 (10)
+ PR 28 (11) 35 (27)
+CI = confidence interval; CR = complete response; MRD = minimal residual disease; 
+PR = partial response; sCR = stringent complete response; VGPR = very good partial response.
+a Kaplan-Meier estimate.
+b Based on stratified univariate Cox proportional hazards model.
+c One-sided p-value is based on stratified log-rank test.
+d Two-sided Wald confidence interval.
+e One-sided p-value from Cochran-Mantel-Haenszel (CMH) test stratified by stratification 
+factors.
+Figure 2:  Kaplan-Meier Plot of IRC-Assessed Progression Free Survival 
+(Intent-to-Treat Analysis)
+ABECMA
+Standard
+RegimenProgression-free Sur vival Probability (%)
+Time from Randomization (Months) 
+Number at Risk
+Standard
+Regimen0
+75 32 42 25 10 13 76210 132ABECMA 206 149 1781 10 40 62 22 14 42 0 2540102030405060708090100
+3 9 6 12 18 15 21 24 27 30 33
+Data cutoff date: April 18, 2022ABECMA® (idecabtagene vicleucel) ABECMA® (idecabtagene vicleucel)In the ABECMA arm, the median duration of response (DOR) was 14.8 months (95% CI: 
+12.0, 18.6) in patients with partial response (PR) or better. In those patients with CR or 
+better, the median DOR was 20 months (95% CI: 15.8, 24.3).
+A higher proportion of patients in the ABECMA arm compared to the standard regimen’s 
+arm died within the first nine months of randomization as shown in Figure 3.
+Figure 3:  Kaplan-Meier Plot of Overall Survival (Intent-to-Treat Analysis) at 
+Second Interim AnalysisOverall Sur vival Probability (%)
+Time from Randomization (Months) 
+Patients at Risk
+Standard
+RegimenABECMA0102030405060708090100
+3 96 12 1815 21242730333639424548
+1281 14 1201 03 8191 755945 18 0 132240 208223 1901 69 1751 61143103 44
+2448
+3275 0
+34
+413
+1130 2540ABECMA
+Standard
+Regimen
+Data cutoff date: April 28, 2023.
+74% of the planned OS events have occurred.74 patients (56%) crossed over from the 
+standard regimens arm to the ABECMA arm.
+The OS curves cross at Month 15 of the study rendering the overall hazard ratio unreliable 
+to estimate the treatment effect on OS.
+Relapsed/Refractory Multiple Myeloma After Three or More Prior Lines of Therapy
+Efficacy of ABECMA was evaluated in KarMMa (NCT03361748), an open-label, 
+single-arm, multicenter study in adult patients with relapsed and refractory multiple 
+myeloma who had received at least 3 prior lines of antimyeloma therapy including 
+an immunomodulatory agent, a proteasome inhibitor, and an anti-CD38 monoclonal 
+antibody. The study included patients with ECOG performance status of 0 or 1. 
+The study excluded patients with a creatinine clearance of less than or equal to 
+45 mL/minute, alanine aminotransferase >2.5 times upper limit of normal, and left 
+ventricular ejection fraction <45%. Patients were also excluded if absolute neutrophil 
+count <1000 cells/mm3 and platelet count <50,000/mm3. Patients had measurable 
+disease by IMWG 2016 criteria at enrollment. Bridging therapy with alkylating agents, 
+corticosteroids, immunomodulatory agents, proteasome inhibitors, and/or anti-CD38 
+monoclonal antibodies to which patients were previously exposed was permitted for 
+disease control between apheresis and until 14 days before the start of lymphodepleting 
+chemotherapy.
+Lymphodepleting chemotherapy consisted of cyclophosphamide (300 mg/m2 IV infusion 
+daily for 3 days) and fludarabine (30 mg/m2 IV infusion daily for 3 days) starting 5 days 
+prior to the target infusion date of ABECMA. Fludarabine was dose reduced for renal 
+insufficiency. Patients were hospitalized for 14 days after ABECMA infusion to monitor for 
+potential CRS, HLH/MAS, and neurotoxicity.
+Of the 135 patients who underwent leukapheresis for 300 x 106 and 450 x 106 
+CAR-positive T cell dose cohorts:
+• 11 (8%) did not receive the CAR-positive T cells either due to death (n = 2), 
+adverse event (n = 1), disease progression (n = 1), consent withdrawal (n = 3), 
+physician decision (n=3), or inability to manufacture product [manufacturing 
+failure (n = 1)]. Two patients died after receiving lymphodepletion and prior to 
+receiving ABECMA. Deaths were from septic shock and general physical health 
+deterioration.
+• 24 (18%) either received ABECMA outside of the 300 to 460 x 106 CAR-positive 
+T cells dose range (n = 23) or received CAR-positive T cells that did not meet 
+product release specifications for ABECMA (non-conforming product; n = 1).
+• The efficacy evaluable population consists of the 100 patients (74%) who 
+received ABECMA in the dose range of 300 to 460 x 106 CAR-positive T cells.
+The overall manufacturing failure rate for patients who underwent leukapheresis 
+for the 300 x 106 and 450 x 106 CAR-positive T cell dose cohorts was 1.5%  
+(2 out of 135 patients). Of these two patients, one received CAR-positive T cells that did 
+not meet product release specifications for ABECMA, and in one patient there was an 
+inability to manufacture ABECMA.Of the 100 patients in the efficacy evaluable population, the median age was 62 years 
+(range: 33 to 78 years), 60% were male, 78% were white, 6% were black, and 2% were 
+Asian. Most patients (78%) were International Staging System (ISS) Stage I or II. High-risk  
+cytogenetics (presence of t(4:14), t(14:16), and 17p13 del) were present in 37% of 
+patients. Thirty-six percent of the patients had presence of extramedullary disease. 
+The median number of prior lines of therapy was 6 (range: 3 to 16), and 88% of 
+the patients received 4 or more prior lines of therapy. Ninety-five percent of the patients 
+were refractory to an anti-CD38 monoclonal antibody. Eighty-five percent were triple 
+class refractory (refractory to a proteasome inhibitor [PI], an immunomodulatory 
+drug [IMiD], and an anti-CD38 monoclonal antibody), and 26% were penta-refractory 
+(refractory to 2 PIs, 2 IMiD agents, and an anti-CD38 monoclonal antibody). Ninety-two 
+percent had received prior autologous stem cell transplantation.
+Most patients (87%) treated with ABECMA received bridging therapy for control of 
+their multiple myeloma during the manufacturing process. The median time from 
+leukapheresis to product availability was 33 days (range: 26 to 49 days).
+Efficacy was established on the basis of overall response rate (ORR), complete response 
+(CR) rate, and duration of response (DOR), as assessed by the Independent Response 
+committee (IRC) based on the International Myeloma Working Group (IMWG) Uniform 
+Response Criteria for Multiple Myeloma.
+Efficacy results for the dose range of 300 to 460 x 106 CAR-positive T cells are shown 
+in Table 9 and Table 10, and the DOR results are shown in Table 11. The median time to 
+first response was 30 days (range: 15 to 88 days).
+Table 9: Summary of Efficacy Based on Independent Response Committee 
+Review According to IMWG Criteria (KarMMa Study)
+ABECMA-Treated Population  
+(300 to 460 x 106 CAR-Positive T Cells)
+N=100
+Overall Response Rate
+(sCR a+VGPR +PR), n (%) 72 (72)
+  95% CI b (%) 62, 81
+sCR a, n (%) 28 (28)
+  95% CI b (%) 19, 38 
+VGPR, n (%) 25 (25)
+  95% CI b (%) 17, 35
+PR, n (%) 19 (19)
+  95% CI b (%) 12, 28
+CAR = chimeric antigen receptor; CI = confidence interval; CR = complete response; 
+MRD = Minimal Residual Disease; IMWG = International Myeloma Working Group; PR = partial 
+response; sCR=stringent complete response; VGPR=very good partial response.
+a All complete responses were stringent CRs.
+b Clopper-Pearson exact CI.
+Table 10: MRD Negativity Rate in the KarMMa Study
+MRD c-negativity rate a in all treated patients (n=100) 21 (21)
+95% CI b (%) 13, 30
+MRD c-negativity rate a in patients achieving CR or  
+sCR status (%) (n=28)21 (75)
+95% CI b  55, 89 
+a MRD negativity was defined as the proportion of patients with CR or stringent CR who are 
+MRD negative at any timepoint within three months prior to achieving CR or stringent CR 
+until the time of progression or death.
+b Clopper-Pearson exact CI.
+c Based on a threshold of 10-5 using ClonoSEQ, a next-generation sequencing assay (NGS).
+Table 11: Duration of Response in the KarMMa Study 
+ABECMA-Treated Population  
+(300 to 460 x 106 CAR-Positive T Cells)
+N=100
+Duration of Response a,b (PR or Better)
+n 72
+Median (months) 11.0
+95% CI  10.3, 11.4
+Duration of Response b for sCR
+n 28
+Median (months) 19.0
+95% CI  11.4, NE
+Median follow-up for duration of response 
+(DOR)10.7 months
+(Continued)ABECMA® (idecabtagene vicleucel) ABECMA® (idecabtagene vicleucel)Table 11: Duration of Response in the KarMMa Study 
+CAR = chimeric antigen receptor; CI = confidence interval; CR = complete response;  
+PR = partial response; sCR = stringent complete response; VGPR = very good partial response; 
+NE = not estimable .
+a Response is defined as achieving sCR, CR, VGPR, or PR according to IMWG criteria.
+b Median and 95% CI are based on Kaplan-Meier estimation.
+Response durations were longer in patients who achieved a stringent CR as compared to 
+patients with a PR or VGPR (Table 11). Of the 28 patients who achieved a stringent CR, it 
+is estimated that 65% (95% CI: 42%, 81%) had a remission lasting at least 12 months.
+The median duration of response for VGPR patients (n=25) was 11.1 months (95% CI: 
+8.7, 11.3).
+The median duration of response for PR patients (n=19) was 4.0 months (95% CI: 
+2.7, 7.2).
+Within the recommended dose of 300 to 460 x 106 CAR-positive T cells, a dose-response 
+relationship was observed with higher ORR and sCR rate in patients who received 440 
+to 460 x 106 compared to 300 to 340 x 106 CAR-positive T cells. Overall response 
+rate of 79% (95% CI: 65%, 90%) and sCR rate of 31% (95% CI: 19%, 46%) was 
+observed with 440 to 460 x 106 CAR-positive T cells. Overall response rate of 
+65% (95% CI: 51%, 78%) with sCR rate of 25% (95% CI: 14%, 39%) was observed in 
+300 to 340 x 106 CAR-positive T cells.
+One hundred and thirty-five patients underwent leukapheresis. Fifteen out of the 
+23 patients who received treatment outside of the recommended dose range of 300 to 
+460 x 106 CAR-positive T cells experienced a response in addition to the responses noted 
+in Table 9. The IRC assessed overall response in the leukapheresis population (n=135) 
+was 64% (95% CI: 56%, 72%) with stringent CR rate of 24% (95% CI: 17%, 32%), VGPR 
+rate of 21% (95% CI: 14%, 29%), and PR rate of 20% (95% CI: 14%, 28%).
+15 REFERENCES
+1. Lee DW, Gardner R, Porter DL, et al. Current concepts in the diagnosis and 
+management of cytokine release syndrome. Blood 2014; 124(2): 188-95. Errata in 
+Blood: 2015;126(8):1048. and 2016;128(11):1533.
+2. Kumar S, Paiva B, Anderson KC, et al. International Myeloma Working Group 
+consensus criteria for response and minimal residual disease assessment in multiple 
+myeloma. Lancet Oncol 2016; 17(8): e328-46.
+16 HOW SUPPLIED/STORAGE AND HANDLING
+ABECMA is supplied in one or more infusion bag(s) (see below) containing a frozen 
+suspension of genetically modified autologous T cells in 5% DMSO.
+Each infusion bag of ABECMA is individually packed in a metal cassette. ABECMA is 
+stored in the vapor phase of liquid nitrogen and supplied in a liquid nitrogen dry vapor 
+shipper. An RFI Certificate is affixed inside the shipper.
+• 50 mL infusion bag and metal cassette (NDC 59572-515-01)
+• 250 mL infusion bag and metal cassette (NDC 59572-515-02)
+• 500 mL infusion bag and metal cassette (NDC 59572-515-03)
+Match the identity of the patient with the patient identifiers on the cassette(s) and 
+infusion bag(s) upon receipt.
+Store ABECMA frozen in the vapor phase of liquid nitrogen (less than or equal to 
+minus 130°C).
+Thaw ABECMA prior to infusion [see Dosage and Administration (2.2)].17 PATIENT COUNSELING INFORMATION
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise patients that the risk of manufacturing failure is 2.1% [8/384 in the clinical 
+studies]. In case of a manufacturing failure, a second manufacturing of ABECMA may 
+be attempted. In addition, while the patient awaits the product, additional anticancer 
+treatment (not the lymphodepletion) may be necessary and may increase the risk 
+of adverse events during the pre-infusion period, which could delay or prevent the 
+administration of ABECMA.
+Inform patients of the risk of early death: In a clinical study, a higher proportion of 
+patients experienced death within the first nine months from randomization in the 
+ABECMA arm compared to the standard regimens arm. This higher rate of early death 
+was mainly observed before receiving ABECMA with the main reason being progression 
+of multiple myeloma. There was also an increase in the rate of death from adverse 
+events after ABECMA.
+Advise patients to seek immediate attention for any of the following:
+• Cytokine Release Syndrome (CRS):  Signs or symptoms associated with CRS, including 
+fever, hypotension, tachycardia, chills, hypoxia, headache, and fatigue [see Dosage 
+and Administration (2.3), Warnings and Precautions (5.2), and Adverse Reactions 
+(6.1)].
+• Neurologic Toxicities:  Signs or symptoms associated with neurologic events, including 
+encephalopathy, confusion, seizures, tremor, aphasia, delirium, and somnolence 
+[see Dosage and Administration (2.3), Warnings and Precautions (5.3), and Adverse 
+Reactions (6.1)].
+• Infections:  Signs or symptoms associated with infection [see Warnings and 
+Precautions (5.7) and Adverse Reactions (6.1)].
+• Prolonged Cytopenias:  Signs or symptoms associated with bone marrow suppression, 
+including neutropenia, anemia, thrombocytopenia, or febrile neutropenia [see 
+Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
+• Secondary malignancies:  Secondary malignancies, including T cell malignancies, 
+have occurred [see Boxed Warning, Warnings and Precautions (5.10), Adverse 
+Reactions (6.3)].
+Advise patients for the need to:
+• Contact Bristol-Myers Squibb at 1-888-805-4555 if they are diagnosed with a 
+secondary malignancy [see Warnings and Precautions (5.10)].
+• Have periodic monitoring of blood counts before and after ABECMA infusion  
+[see Warnings and Precautions (5.8)].
+• Refrain from driving or operating heavy or potentially dangerous machines until at 
+least eight weeks after ABECMA administration [see Warnings and Precautions (5.11)].
+Manufactured by:  Celgene Corporation, a Bristol-Myers Squibb Company  
+556 Morris Avenue  
+Summit, NJ 07901
+U.S. License No. 2252
+Marketed by:  
+Celgene Corporation, a Bristol-Myers Squibb Company (Summit, NJ 07901), and 
+2seventy bio, Inc. (Cambridge, MA 02142).
+ABECMA® is a trademark of Celgene Corporation, a Bristol-Myers Squibb Company.
+Pat. https://www.bms.com/patient-and-caregivers/our-medicines.html
+ABEPI.004/MG.002(Continued)ABECMA® (idecabtagene vicleucel)MEDICATION GUIDE
+ABECMA® (uh-BEK-muh)  
+(idecabtagene vicleucel)
+Read this Medication Guide before you start your ABECMA treatment. The more you know about your treatment, the 
+more active you can be in your care. Talk with your healthcare provider if you have questions about your health condition 
+or treatment. Reading this Medication Guide does not take the place of talking with your healthcare provider about your 
+treatment.
+What is the most important information I should know about ABECMA?
+ABECMA may cause side effects that are life-threatening and can lead to death. Call your healthcare provider or get 
+emergency help right away if you get any of the following:
+ ●difficulty breathing
+ ●fever (100.4°F/38°C or higher)
+ ●chills/shivering
+ ●confusion
+ ●dizziness or lightheadedness
+ ●shaking or twitching (tremor)
+ ●fast or irregular heartbeat
+ ●severe fatigue
+ ●severe nausea, vomiting, diarrhea
+It is important that you tell your healthcare providers that you have received ABECMA and to show them your ABECMA 
+Patient Wallet Card. Your healthcare provider may give you other medicines to treat your side effects.
+What is ABECMA?
+ABECMA is for the treatment of multiple myeloma in patients who have received at least two kinds of treatment regimens 
+that have not worked or have stopped working. ABECMA is a medicine made from your own white blood cells; the cells are 
+genetically modified to recognize and attack your multiple myeloma cells.
+How will I receive ABECMA?
+ABECMA is made from your own white blood cells, so your blood will be collected by a process called “leukapheresis” 
+(LOO-kuh-feh-REE-sis).
+Your blood cells will be sent to a manufacturing center to make your ABECMA. Based on clinical trial experience, it takes 
+about four weeks from the time your cells are received at the manufacturing site and are available to be shipped back to your 
+healthcare provider, but the time may vary.
+Before you get ABECMA, your healthcare provider will give you chemotherapy for three days to prepare your body.
+When your ABECMA is ready, your healthcare provider will give ABECMA to you through a catheter (tube) placed into your 
+vein (intravenous infusion). Your dose of ABECMA may be given in one or more infusion bags. The infusion usually takes up 
+to 30 minutes for each infusion bag.
+You will be monitored at the certified healthcare facility where you received your treatment daily for at least seven days after 
+the infusion.
+You should plan to stay within two hours of this location for at least four weeks after getting ABECMA. Your healthcare 
+provider will check to see that your treatment is working and help you with any side effects that may occur.
+What should I avoid after receiving ABECMA?
+ ●Do not drive, operate heavy machinery, or do other activities that could be dangerous if you are not mentally alert, for at 
+least eight weeks after you get ABECMA. This is because the treatment can cause temporary memory and coordination 
+problems, sleepiness, confusion, dizziness, and seizures.
+ ●Do not donate blood, organs, tissues, or cells for transplantation.ABECMA® (idecabtagene vicleucel)What are the possible or reasonably likely side effects of ABECMA?
+The most common side effects of ABECMA are:
+ ●fatigue
+ ●fever (100.4°F/38°C or higher)
+ ●chills/shivering
+ ●severe nausea or diarrhea
+ ●decreased appetite
+ ●headache
+ ●dizziness/lightheadedness
+ ●confusion
+ ●difficulty speaking or slurred speech
+ ●cough
+ ●difficulty breathing
+ ●fast or irregular heartbeat
+In a study comparing ABECMA to standard regimen, a higher proportion of patients experienced death within the first nine 
+months from randomization in the ABECMA arm compared to the standard regimens arm. This higher rate of early death 
+was mainly observed before receiving ABECMA with the main reason being progression of multiple myeloma. There was 
+also an increase in the rate of death from adverse events after ABECMA.
+ABECMA can cause a very common side effect called cytokine release syndrome or CRS, which can be severe or fatal. 
+Symptoms of CRS include fever, difficulty breathing, dizziness or light-headedness, nausea, headache, fast heartbeat, low 
+blood pressure, or fatigue. Tell your healthcare provider right away if you develop fever or any of these other symptoms after 
+receiving ABECMA.
+ABECMA can increase the risk of life-threatening infections that may lead to death. Tell your healthcare provider right away 
+if you develop fever, chills, or any signs or symptoms of an infection.
+ABECMA can lower one or more types of your blood cells (red blood cells, white blood cells, or platelets), which may make 
+you feel weak or tired or increase your risk of severe infection or bleeding. After treatment, your healthcare provider will test 
+your blood to check for this. Tell your healthcare provider right away if you get a fever, are feeling tired, or have bruising or 
+bleeding.
+ABECMA may increase your risk of getting cancers including certain types of blood cancers. Your healthcare provider should 
+monitor you for this.
+Having ABECMA in your blood may cause a false-positive human immunodeficiency virus (HIV) test result by some 
+commercial tests.
+These are not all the possible side effects of ABECMA. Call your doctor for medical advice about side effects. You may 
+report side effects to FDA at 1-800-FDA-1088.
+General information about the safe and effective use of ABECMA
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. If you would like more 
+information about ABECMA, talk with your healthcare provider. You can ask your healthcare provider for information about 
+ABECMA that is written for health professionals.
+For more information, go to ABECMA.com or call 1-888-805-4555.
+Manufactured by: Celgene Corporation, a Bristol-Myers Squibb Company, 556 Morris Avenue, Summit, NJ 07901.
+Marketed by: Celgene Corporation, a Bristol-Myers Squibb Company (Summit, NJ 07901), and 2seventy bio, Inc. (Cambridge, MA 02142).
+ABECMA® is a trademark of Celgene Corporation, a Bristol-Myers Squibb Company.
+ABEMG002  4/2024
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+ Revised: April 2024
+ 2012-US-2400020  07/24
