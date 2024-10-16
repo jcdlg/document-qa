@@ -1,9 +1,11 @@
-
 import os
 import re
 
 # PI for Orencia has different format, set manually
-orencia_indications = '''ORENCIA is a prescription medicine that reduces signs and symptoms in:  
+orencia_indications = """
+Context document: pi_zeposia.txt
+Content: 
+ORENCIA is a prescription medicine that reduces signs and symptoms in:  
 • adults with moderate to severe rheumatoid arthritis (RA), including those who have not been helped enough by 
 other medicines for RA. ORENCIA may prevent further damage to your bones and joints and may help your ability 
 to perform daily activities. In adults, ORENCIA may be used alone or with other RA treatments other than tumor 
@@ -16,37 +18,58 @@ other PsA treatments.  In children, ORENCIA can be used alone or with methotrexa
 ORENCIA is also used for the preventative treatment of acute graft versus host disease (aGVHD) , in combination with 
 a calcineurin inhi bitor and methotrexate, in:  
 • people 2 years of age and older undergoing hematopoietic stem cell transplantation (HSCT) from a matched or 1 
-allele -mismatched unrelated- donor .  '''
+allele -mismatched unrelated-donor .
+
+-----
+"""
 
 
-def get_indication(text):
+def get_indications_from_pi(pi):
     indications = ""
-    #p = re.search("--+ *INDICATIONS AND USAGE *--+(.+?)--+", text, flags=re.MULTILINE | re.DOTALL)
-    p = re.search("--+ *INDICATIONS AND USAGE *-*(.+?)--+", text, flags=re.MULTILINE | re.DOTALL)
+    # p = re.search("--+ *INDICATIONS AND USAGE *--+(.+?)--+", text, flags=re.MULTILINE | re.DOTALL)
+    p = re.search(
+        "--+ *INDICATIONS AND USAGE *-*(.+?)--+", pi, flags=re.MULTILINE | re.DOTALL
+    )
     if p:
         indications = p.group(1)
     return indications
 
 
-def get_indication_from_file(file_name):
+def load_pi_from_file(file_name):
     with open(file_name, "r", encoding="utf-8") as txt_file:
         text = txt_file.read()
-        
-    indication = get_indication(text)
-    if not indication: 
-        print("Indications missing in ",file_name)
+
+    indication = get_indications_from_pi(text)
+    if not indication:
+        print("Indications missing in ", file_name)
     return indication
 
-def get_all_indications():
-    txt_directory = "product_inserts/txt/"
-    text = ""
-    for file_name in os.listdir(txt_directory):
-        #print(txt_directory+file_name)
-        #print(get_indication_from_file(txt_directory+file_name))
-        text += get_indication_from_file(txt_directory+file_name)
-    text += orencia_indications
-    return text
 
-text = get_all_indications()
+def get_context():
+    """Get context for a GPT chat.  Currently retrieves the indications for PIs for top selling BMS drugs."""
+
+    pi_dir = "product_inserts/txt/"
+    context = """
+-----
+"""
+    for file_name in os.listdir(pi_dir):
+        #print(pi_dir + file_name)
+        #print(load_pi_from_file(pi_dir + file_name))
+
+        document_name = file_name
+        document_content = load_pi_from_file(pi_dir + file_name)
+        document = f"""
+
+Context document: {document_name}
+Content: {document_content}
+
+-----
+
+"""
+        context += document
+    context += orencia_indications
+    return context
 
 
+# text = get_all_indications()
+# print(text)
