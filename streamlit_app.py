@@ -39,14 +39,20 @@ else:
     )
 
     if question:
-        prompt = """Answer the following question only using the provided context and if the answer is not contained within the context, say "I am sorry, I don't know."
-                    Be thorough and complete.  Include the drug name as a reference."""
+        prompt = """You are an expert in medical affairs at a pharmaceutical company.  Answer the following question only using the context provided below and if the answer is not contained in them, say "I am sorry, I don't know.  Be thorough and complete.  If you are asked to list indications, include the drug name for each.  
+        
+        Please provide the source DOC used.
+        """
         context = context_utils.get_context()
         messages = [
             {
                 "role": "system",
                 "content": prompt
-                + f"  \n\n---\n\n  Context: {context} \n\n---\n\n Question: {question}",
+                + f"  \n\n---\n\n  Context: {context} \n\n---\n\n",
+            },
+            {
+                "role": "user",
+                "content": f"Question: {question}",
             }
         ]
 
