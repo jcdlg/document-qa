@@ -40,7 +40,7 @@ else:
 
     if question:
         prompt = """Answer the following question only using the provided context and if the answer is not contained within the context, say "I am sorry, I don't know."
-                    Be as thorough and complete as possible.  Include the drug name as a reference."""
+                    Be thorough and complete.  Include the drug name as a reference."""
         context = context_utils.get_context()
         messages = [
             {
