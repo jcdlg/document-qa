@@ -49,3 +49,4 @@ def get_all_indications():
 
 text = get_all_indications()
 
+
