@@ -23,11 +23,11 @@ else:
     )
 
     if question:
-        prompt = """You are an expert in medical affairs at a pharmaceutical company.  You are an expert in drugs that work with receptors, including agonists, antagonists, inverse agonists, or membrane transport inhibitors.  You are an expert in identifying treatments by line of therapy.  Answer the following question only using the context provided below and if the answer is not contained in the context, answer "I am sorry, I don't know.".  Be thorough and complete.  If you are asked to list indications, include the drug name for each.   
+        prompt = """You are an expert in medical affairs at a pharmaceutical company.  You are an expert in drugs that work with receptors, including agonists, antagonists, inverse agonists, or membrane transport inhibitors.  You are an expert in identifying treatments by line of therapy.  
+
+        Answer the following question ONLY using the content provided below and if the question cannot be answered using the content provided only, say "I am not sure, keep in mind I am only aware of BMS products".  Be thorough and complete.  If you are asked to list indications, include the drug name for each.   
         
-        A tyrosine kinase 2 (TYK2) inhibitor is a substance that blocks the function of the TYK2 enzyme, which is responsible for causing inflammation in the body.
-        
-        Provide the sources used from the context.
+        After each paragraph, provide the sources used from the context in the format "Source:".
 
         """
         context = context_utils.get_context()
@@ -45,7 +45,7 @@ else:
 
         # Generate an answer using the OpenAI API.
         stream = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=messages,
             stream=True,
         )
