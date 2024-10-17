@@ -9,22 +9,6 @@ st.subheader(
     "A case study on how to use LLMs to empower MSL teams at Bristol Myers Squibb."
 )
 
-# Example queries:
-
-# INDICATIONS BY TA
-# List all the indications that you know about, and list them by drug name.
-# I am a medical science liaison visiting a pulmonologist.  List all indications that he would care about.
-# Which questions are most relevant for OPDIVO for a pulmonologist.
-
-# COMBINATIONS
-# Can yervoy be combined with Opdivo?
-# For which indications can Yervoy and Opdivo be combined?
-
-# Additional input:
-# Efficacy data
-# Side effects
-# Contraindications
-
 # Create an OpenAI client.
 openai_api_key = st.text_input("OpenAI API Key", type="password")
 
@@ -34,14 +18,17 @@ else:
     client = OpenAI(api_key=openai_api_key)
 
     question = st.text_area(
-        "Ask a question about the PI:",
-        placeholder="Provide all indications for NSCLS across all BMS drugs.",
+        "Ask a question about the indications in the PI:",
+        placeholder="Provide all indications you know aobut for NSCLC.",
     )
 
     if question:
-        prompt = """You are an expert in medical affairs at a pharmaceutical company.  Answer the following question only using the context provided below and if the answer is not contained in them, say "I am sorry, I don't know.  Be thorough and complete.  If you are asked to list indications, include the drug name for each.  
+        prompt = """You are an expert in medical affairs at a pharmaceutical company.  You are an expert in drugs that work with receptors, including agonists, antagonists, inverse agonists, or membrane transport inhibitors.  You are an expert in identifying treatments by line of therapy.  Answer the following question only using the context provided below and if the answer is not contained in the context, answer "I am sorry, I don't know.".  Be thorough and complete.  If you are asked to list indications, include the drug name for each.   
         
-        Please provide the source DOC used.
+        A tyrosine kinase 2 (TYK2) inhibitor is a substance that blocks the function of the TYK2 enzyme, which is responsible for causing inflammation in the body.
+        
+        Provide the sources used from the context.
+
         """
         context = context_utils.get_context()
         messages = [

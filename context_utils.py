@@ -16,7 +16,7 @@ may be used alone or with methotrexate.
 other PsA treatments.  In children, ORENCIA can be used alone or with methotrexate.  
  
 ORENCIA is also used for the preventative treatment of acute graft versus host disease (aGVHD) , in combination with 
-a calcineurin inhi bitor and methotrexate, in:  
+a calcineurin inhibitor and methotrexate, in:  
 • people 2 years of age and older undergoing hematopoietic stem cell transplantation (HSCT) from a matched or 1 
 allele -mismatched unrelated-donor .
 
@@ -40,8 +40,9 @@ def load_pi_from_file(file_name):
         text = txt_file.read()
 
     indication = get_indications_from_pi(text)
-    if not indication:
-        print("Indications missing in ", file_name)
+    #if not indication:
+    #    print("Indications missing in ", file_name)
+
     return indication
 
 
@@ -53,8 +54,8 @@ def get_context():
 -----
 """
     for file_name in os.listdir(pi_dir):
-        #print(pi_dir + file_name)
-        #print(load_pi_from_file(pi_dir + file_name))
+        # print(pi_dir + file_name)
+        # print(load_pi_from_file(pi_dir + file_name))
 
         document_name = file_name
         document_content = load_pi_from_file(pi_dir + file_name)
@@ -67,7 +68,9 @@ Content: {document_content}
 
 """
         context += document
+        
     context += orencia_indications
+    print(context)
     return context
 
 
