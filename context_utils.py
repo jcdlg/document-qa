@@ -3,7 +3,7 @@ import re
 
 # PI for Orencia has different format, set manually
 orencia_indications = """
-Source: pi_zeposia.txt
+Source: pi_orencia.txt
 Content: 
 ORENCIA is a prescription medicine that reduces signs and symptoms in:  
 • adults with moderate to severe rheumatoid arthritis (RA), including those who have not been helped enough by 
@@ -56,7 +56,7 @@ def get_context():
     for file_name in os.listdir(pi_dir):
         # print(pi_dir + file_name)
         # print(load_pi_from_file(pi_dir + file_name))
-
+        
         document_name = file_name
         document_content = load_pi_from_file(pi_dir + file_name)
         document = f"""
@@ -67,7 +67,7 @@ Content: {document_content}
 -----
 
 """
-        context += document
+        if document_content: context += document
         
     context += orencia_indications
     print(context)

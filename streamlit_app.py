@@ -1,13 +1,12 @@
 import streamlit as st
 from openai import OpenAI
+import json
 import context_utils
 
 # Show title and description.
 st.logo("png/logo.png", size="large")
 st.title("📄 MSL Companion")
-st.subheader(
-    "A case study on how to use LLMs to empower MSL teams at Bristol Myers Squibb."
-)
+st.subheader("A case study on how to use LLMs to empower MSL teams at Bristol Myers Squibb.")
 
 # Create an OpenAI client.
 openai_api_key = st.text_input("OpenAI API Key", type="password")
@@ -43,6 +42,10 @@ else:
             }
         ]
 
+        # Debug print
+       # json_object = json.loads([messages])
+        print(json.dumps(messages, indent = 2).replace('\\n','\n'))
+        
         # Generate an answer using the OpenAI API.
         stream = client.chat.completions.create(
             model="gpt-4o",
